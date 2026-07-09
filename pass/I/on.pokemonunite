@@ -1,0 +1,1463 @@
+I/on.pokemonunite( 5779): Using CollectorTypeCMC GC.
+
+W/on.pokemonunite( 5779): Unexpected CPU variant for x86: x86_64.
+
+W/on.pokemonunite( 5779): Known variants: atom, sandybridge, silvermont, goldmont, goldmont-plus, goldmont-without-sha-xsaves, tremont, kabylake, default
+
+I/berberis( 5779): Initialized Berberis (aarch64), version 0.2.3
+
+E/on.pokemonunite( 5779): Not starting debugger since process cannot load the jdwp agent.
+
+D/nativeloader( 5779): Load libframework-connectivity-tiramisu-jni.so using APEX ns com_android_tethering for caller /apex/com.android.tethering/javalib/framework-connectivity-t.jar: ok
+
+W/ziparchive( 5779): Unable to open '/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/split_ab.dm': No such file or directory
+
+W/ziparchive( 5779): Unable to open '/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/split_ab.dm': No such file or directory
+
+W/on.pokemonunite( 5779): Entry not found
+
+W/ziparchive( 5779): Unable to open '/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/split_config.arm64_v8a.dm': No such file or directory
+
+W/ziparchive( 5779): Unable to open '/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/split_config.arm64_v8a.dm': No such file or directory
+
+W/on.pokemonunite( 5779): Entry not found
+
+W/ziparchive( 5779): Unable to open '/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/split_config.armeabi_v7a.dm': No such file or directory
+
+W/ziparchive( 5779): Unable to open '/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/split_config.armeabi_v7a.dm': No such file or directory
+
+W/on.pokemonunite( 5779): Entry not found
+
+D/nativeloader( 5779): Configuring clns-7 for other apk /data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/base.apk:/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/split_ab.apk:/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/split_config.arm64_v8a.apk:/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/split_config.armeabi_v7a.apk. target_sdk_version=35, uses_libraries=, library_path=/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64:/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/base.apk!/lib/arm64-v8a:/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/split_ab.apk!/lib/arm64-v8a:/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/split_config.arm64_v8a.apk!/lib/arm64-v8a:/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU
+
+D/CompatChangeReporter( 5779): Compat change id reported: 202956589; UID 10213; state: ENABLED
+
+V/GraphicsEnvironment( 5779): Currently set values for:
+
+V/GraphicsEnvironment( 5779):   angle_gl_driver_selection_pkgs=[]
+
+V/GraphicsEnvironment( 5779):   angle_gl_driver_selection_values=[]
+
+V/GraphicsEnvironment( 5779): Global.Settings values are invalid: number of packages: 0, number of values: 0
+
+V/GraphicsEnvironment( 5779): Neither updatable production driver nor prerelease driver is supported.
+
+I/MultiDex( 5779): VM with version 2.1.0 has multidex support
+
+I/MultiDex( 5779): Installing application
+
+I/MultiDex( 5779): VM has multidex support, MultiDex support library is disabled.
+
+I/FirebaseApp( 5779): Device unlocked: initializing all Firebase APIs for app [DEFAULT]
+
+I/FirebaseCrashlytics( 5779): Initializing Firebase Crashlytics 18.2.0 for jp.pokemon.pokemonunite
+
+I/FirebaseInitProvider( 5779): FirebaseApp initialization successful
+
+D/CompatChangeReporter( 5779): Compat change id reported: 312399441; UID 10213; state: ENABLED
+
+W/com.facebook.UserSettingsManager( 5779): You haven't set a value for AdvertiserIDCollectionEnabled. Set the flag to TRUE if you want to collect Advertiser ID for better advertising and analytics results. To request user consent before collecting data, set the flag value to FALSE, then change to TRUE once user consent is received. Learn more: https://developers.facebook.com/docs/app-events/getting-started-app-events-android#disable-auto-events.
+
+W/ziparchive( 5779): Unable to open '/data/user_de/0/com.google.android.gms/app_chimera/m/00000002/DynamiteLoader.uncompressed.dm': No such file or directory
+
+W/ziparchive( 5779): Unable to open '/data/user_de/0/com.google.android.gms/app_chimera/m/00000002/DynamiteLoader.uncompressed.dm': No such file or directory
+
+I/DynamiteModule( 5779): Considering local module com.google.android.gms.measurement.dynamite:51 and remote module com.google.android.gms.measurement.dynamite:115
+
+I/DynamiteModule( 5779): Selected remote version of com.google.android.gms.measurement.dynamite, version >= 115
+
+V/DynamiteModule( 5779): Dynamite loader version >= 2, using loadModule2NoCrashUtils
+
+W/com.facebook.internal.NativeProtocol( 5779): Apps that target Android API 30+ (Android 11+) cannot call Facebook native apps unless the package visibility needs are declared. Please follow https://developers.facebook.com/docs/android/troubleshooting/#faq_267321845055988 to make the declaration.
+
+E/com.facebook.GraphResponse( 5779): GraphRequest can't be used when Facebook SDK isn't fully initialized
+
+E/com.facebook.GraphResponse( 5779): GraphRequest can't be used when Facebook SDK isn't fully initialized
+
+E/com.facebook.GraphResponse( 5779): GraphRequest can't be used when Facebook SDK isn't fully initialized
+
+E/com.facebook.GraphResponse( 5779): GraphRequest can't be used when Facebook SDK isn't fully initialized
+
+E/com.facebook.GraphResponse( 5779): GraphRequest can't be used when Facebook SDK isn't fully initialized
+
+D/TrafficStats( 5779): tagSocket(95) with statsTag=0x8001, statsUid=-1
+
+W/ziparchive( 5779): Unable to open '/data/user_de/0/com.google.android.gms/app_chimera/m/00000007/MeasurementDynamite.dm': No such file or directory
+
+W/ziparchive( 5779): Unable to open '/data/user_de/0/com.google.android.gms/app_chimera/m/00000007/MeasurementDynamite.dm': No such file or directory
+
+E/com.facebook.GraphResponse( 5779): GraphRequest can't be used when Facebook SDK isn't fully initialized
+
+D/CompatChangeReporter( 5779): Compat change id reported: 279646685; UID 10213; state: ENABLED
+
+D/CompatChangeReporter( 5779): Compat change id reported: 309578419; UID 10213; state: ENABLED
+
+D/CompatChangeReporter( 5779): Compat change id reported: 63938206; UID 10213; state: ENABLED
+
+I/[CrashSightReport]( 5779): sdk uuid first install lastAppVersionCode: , currentAppVersionCode: 1169236
+
+I/[CrashSightReport]( 5779): sdk uuid deviceId: 
+
+I/[CrashSightReport]( 5779): cachedUuid: 
+
+I/[CrashSightReport]( 5779): currentVersionUuid: 87b9dc90-97af-4dbb-b1b3-9d47401213e4
+
+I/[CrashSightReport]( 5779): redisKeyUuid: 87b9dc90-97af-4dbb-b1b3-9d47401213e4
+
+W/[CrashSightReport]( 5779): appContext: not null, appId: 8a906737b5, isDebug: false, crashSightStrategy: is null
+
+I/[CrashSightReport]( 5779): localStrategy is null
+
+D/nativeloader( 5779): Load /data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64/libCrashSight.so using ns clns-7 from class loader (caller=/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/base.apk!classes2.dex): ok
+
+I/[CrashSightReport-Native]( 5779): get system java classes success
+
+I/[CrashSightReport-Native]( 5779): backup java classes success
+
+I/[CrashSightReport-Native]( 5779): Initiate native log with buffer size 30720.
+
+I/[CrashSightReport-Native]( 5779): Initialization of native log have been completed.
+
+W/on.pokemonunite( 5779): type=1400 audit(0.0:75): avc:  denied  { getattr } for  path="/dev/pmsg0" dev="tmpfs" ino=808 scontext=u:r:untrusted_app:s0:c213,c256,c512,c768 tcontext=u:object_r:pmsg_device:s0 tclass=chr_file permissive=0 app=jp.pokemon.pokemonunite
+
+D/ProcessUtils( 5779): cpubits : x86_64
+
+D/ProcessUtils( 5779): cpubits : arm64-v8a
+
+W/on.pokemonunite( 5779): type=1400 audit(0.0:76): avc:  denied  { getattr } for  path="/dev/pmsg0" dev="tmpfs" ino=808 scontext=u:r:untrusted_app:s0:c213,c256,c512,c768 tcontext=u:object_r:pmsg_device:s0 tclass=chr_file permissive=0 app=jp.pokemon.pokemonunite
+
+W/on.pokemonunite( 5779): type=1400 audit(0.0:77): avc:  denied  { getattr } for  path="/dev/pmsg0" dev="tmpfs" ino=808 scontext=u:r:untrusted_app:s0:c213,c256,c512,c768 tcontext=u:object_r:pmsg_device:s0 tclass=chr_file permissive=0 app=jp.pokemon.pokemonunite
+
+I/FileUtils( 5779): generateDir returns: /data/user/0/jp.pokemon.pokemonunite/files/Resources
+
+V/FileUtils( 5779): [generateDir] isMkDirs: true
+
+E/FileUtils( 5779): file delete:/data/user/0/jp.pokemon.pokemonunite/files/Resources
+
+E/FileUtils( 5779): file delete file is directory:/data/user/0/jp.pokemon.pokemonunite/files/Resources
+
+E/FileUtils( 5779): file delete directory:/data/user/0/jp.pokemon.pokemonunite/files/Resources,result:true
+
+I/FileUtils( 5779): generateDir returns: /data/user/0/jp.pokemon.pokemonunite/files/Resources
+
+V/FileUtils( 5779): [generateDir] isMkDirs: true
+
+I/FileUtils( 5779): generateDir returns: /data/user/0/jp.pokemon.pokemonunite/files/Resources
+
+E/FileUtils( 5779): file delete:/data/user/0/jp.pokemon.pokemonunite/files/Resources
+
+E/FileUtils( 5779): file delete file is directory:/data/user/0/jp.pokemon.pokemonunite/files/Resources
+
+E/FileUtils( 5779): file delete directory:/data/user/0/jp.pokemon.pokemonunite/files/Resources,result:true
+
+D/PGame   ( 5779): hideSystemUI start hide system ui
+
+E/com.facebook.GraphResponse( 5779): GraphRequest can't be used when Facebook SDK isn't fully initialized
+
+I/FA      ( 5779): App measurement disabled via the manifest
+
+I/FA      ( 5779): App measurement initialized, version: 95014
+
+I/FA      ( 5779): To enable debug logging run: adb shell setprop log.tag.FA VERBOSE
+
+I/FA      ( 5779): To enable faster debug mode event logging run:
+
+I/FA      ( 5779):   adb shell setprop debug.firebase.analytics.app jp.pokemon.pokemonunite
+
+I/Gralloc4( 5779): mapper 4.x is not supported
+
+W/on.pokemonunite( 5779): Verification of void m.dm.b(android.content.Context, android.content.ServiceConnection) took 299.074ms (140.43 bytecodes/s) (2840B approximate peak alloc)
+
+E/com.facebook.GraphResponse( 5779): GraphRequest can't be used when Facebook SDK isn't fully initialized
+
+D/nativeloader( 5779): Load /data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64/libextractor.so using ns clns-7 from class loader (caller=/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/base.apk!classes2.dex): ok
+
+I/FileUtils( 5779): generateDir returns: /data/user/0/jp.pokemon.pokemonunite/files/Resources
+
+V/FileUtils( 5779): [generateDir] isMkDirs: true
+
+D/PGame   ( 5779): start extract Lib Res inputPath = /data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64/libResources.so, outPath = /data/user/0/jp.pokemon.pokemonunite/files/Resources/1169236
+
+D/PGame   ( 5779): hideSystemUI start hide system ui
+
+W/CrashSightThrea( 5779): type=1400 audit(0.0:78): avc:  denied  { read } for  name="iomem" dev="proc" ino=4026532062 scontext=u:r:untrusted_app:s0:c213,c256,c512,c768 tcontext=u:object_r:proc_iomem:s0 tclass=file permissive=0 app=jp.pokemon.pokemonunite
+
+W/CrashSightThrea( 5779): type=1400 audit(0.0:79): avc:  denied  { read } for  name="iomem" dev="proc" ino=4026532062 scontext=u:r:untrusted_app:s0:c213,c256,c512,c768 tcontext=u:object_r:proc_iomem:s0 tclass=file permissive=0 app=jp.pokemon.pokemonunite
+
+E/FirebaseMessaging( 5779): Topic sync or token retrieval failed on hard failure exceptions: java.util.concurrent.ExecutionException: java.io.IOException: TOO_MANY_REGISTRATIONS. Won't retry the operation.
+
+W/CrashSightThrea( 5779): type=1400 audit(0.0:81): avc:  denied  { read } for  name="ioports" dev="proc" ino=4026532061 scontext=u:r:untrusted_app:s0:c213,c256,c512,c768 tcontext=u:object_r:proc:s0 tclass=file permissive=0 app=jp.pokemon.pokemonunite
+
+W/CrashSightThrea( 5779): type=1400 audit(0.0:82): avc:  denied  { read } for  name="ioports" dev="proc" ino=4026532061 scontext=u:r:untrusted_app:s0:c213,c256,c512,c768 tcontext=u:object_r:proc:s0 tclass=file permissive=0 app=jp.pokemon.pokemonunite
+
+W/CrashSightThrea( 5779): type=1400 audit(0.0:83): avc:  denied  { read } for  name="misc" dev="proc" ino=4026532007 scontext=u:r:untrusted_app:s0:c213,c256,c512,c768 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0 app=jp.pokemon.pokemonunite
+
+W/CrashSightThrea( 5779): type=1400 audit(0.0:84): avc:  denied  { read } for  name="misc" dev="proc" ino=4026532007 scontext=u:r:untrusted_app:s0:c213,c256,c512,c768 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0 app=jp.pokemon.pokemonunite
+
+W/CrashSightThrea( 5779): type=1400 audit(0.0:85): avc:  denied  { read } for  name="kallsyms" dev="proc" ino=4026532071 scontext=u:r:untrusted_app:s0:c213,c256,c512,c768 tcontext=u:object_r:proc_kallsyms:s0 tclass=file permissive=0 app=jp.pokemon.pokemonunite
+
+W/libc    ( 5779): Access denied finding property "vendor.gamematrix.hardware_type"
+
+W/libc    ( 5779): Access denied finding property "vendor.gamematrix.cluster"
+
+W/libc    ( 5779): Access denied finding property "vendor.cloudgame.game"
+
+W/InteractionJankMonitor( 5779): Initializing without READ_DEVICE_CONFIG permission. enabled=true, interval=1, missedFrameThreshold=3, frameTimeThreshold=64, package=jp.pokemon.pokemonunite
+
+D/TrafficStats( 5779): tagSocket(125) with statsTag=0x2710, statsUid=-1
+
+I/FileUtils( 5779): generateDir returns: /data/user/0/jp.pokemon.pokemonunite/files/Resources
+
+I/FileUtils( 5779): generateDir returns: /data/user/0/jp.pokemon.pokemonunite/files/Resources
+
+I/FileUtils( 5779): generateDir returns: /data/user/0/jp.pokemon.pokemonunite/files/Resources
+
+I/FileUtils( 5779): generateDir returns: /data/user/0/jp.pokemon.pokemonunite/files/Resources
+
+D/PGame   ( 5779): AllFiles Md5 correct
+
+I/FileUtils( 5779): generateDir returns: /data/user/0/jp.pokemon.pokemonunite/files/Resources
+
+I/FileUtils( 5779): generateDir returns: /data/user/0/jp.pokemon.pokemonunite/files/Resources
+
+D/nativeloader( 5779): Load /data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64/libmain.so using ns clns-7 from class loader (caller=/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/base.apk!classes2.dex): ok
+
+D/Unity   ( 5779): Load
+
+D/Unity   ( 5779): nativeLibraryDir '/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64' (96)
+
+D/Unity   ( 5779): secondaryNativeLibraryDir '/data/user/0/jp.pokemon.pokemonunite/files/Resources/1169236/arm64-v8a' (71)
+
+D/Unity   ( 5779): Loading 'libNativeDump.so'
+
+D/Unity   ( 5779): Path '/data/user/0/jp.pokemon.pokemonunite/files/Resources/1169236/arm64-v8a/libNativeDump.so'
+
+D/Unity   ( 5779): Optional library not loaded 'libNativeDump.so'
+
+D/Unity   ( 5779): Loading 'libNativeDump.so'
+
+D/Unity   ( 5779): Path '/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64/libNativeDump.so'
+
+D/Unity   ( 5779): Optional library not loaded 'libNativeDump.so'
+
+D/Unity   ( 5779): Loading 'libunity.so'
+
+D/Unity   ( 5779): Path '/data/user/0/jp.pokemon.pokemonunite/files/Resources/1169236/arm64-v8a/libunity.so'
+
+D/PDevice ( 5779): PDeviceHelper initialized
+
+I/DeeplinkHelper( 5779): intent.getData(): null
+
+I/DeeplinkHelper( 5779): is not deeplink
+
+D/GooleHelper( 5779): PDeviceHelper initialized
+
+I/PlayCore( 5779): UID: [10213]  PID: [5779] ReviewService : requestInAppReview (jp.pokemon.pokemonunite)
+
+I/FileUtils( 5779): generateDir returns: /data/user/0/jp.pokemon.pokemonunite/files/Resources
+
+D/PGame   ( 5779): getUnityLibPath = /data/user/0/jp.pokemon.pokemonunite/files/Resources/1169236/arm64-v8a/libunity.so
+
+I/FileUtils( 5779): generateDir returns: /data/user/0/jp.pokemon.pokemonunite/files/Resources
+
+D/PGame   ( 5779): getIl2CppLibPath = /data/user/0/jp.pokemon.pokemonunite/files/Resources/1169236/arm64-v8a/libil2cpp.so
+
+I/FileUtils( 5779): generateDir returns: /data/user/0/jp.pokemon.pokemonunite/files/Resources
+
+D/PGame   ( 5779): getUnityLibPath = /data/user/0/jp.pokemon.pokemonunite/files/Resources/1169236/arm64-v8a/libunity.so
+
+I/FileUtils( 5779): generateDir returns: /data/user/0/jp.pokemon.pokemonunite/files/Resources
+
+D/PGame   ( 5779): getIl2CppLibPath = /data/user/0/jp.pokemon.pokemonunite/files/Resources/1169236/arm64-v8a/libil2cpp.so
+
+D/PGame   ( 5779): checkSOExists lib unity = /data/user/0/jp.pokemon.pokemonunite/files/Resources/1169236/arm64-v8a/libunity.so, exists = true, lib il2cpp = /data/user/0/jp.pokemon.pokemonunite/files/Resources/1169236/arm64-v8a/libil2cpp.so, exists = true
+
+I/PlayCore( 5779): UID: [10213]  PID: [5779] ReviewService : Initiate binding to the service.
+
+I/PlayCore( 5779): UID: [10213]  PID: [5779] ReviewService : Failed to bind to the service.
+
+D/nativeloader( 5779): Load /data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64/libgcloudcore.so using ns clns-7 from class loader (caller=/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/base.apk): ok
+
+I/GCloudCore( 5779): [2026-07-06 11:57:27 958] | Info | [GCloudCore] |5779| (PluginManager.mm:32)|PluginManager| PluginManager::PluginManager():0x7d5cf29bd240
+
+I/GCloudCore( 5779): [2026-07-06 11:57:27 960] | Event | [GCloudCore] |5779| (PluginManager.mm:39)|PluginManager| LYP: version 1.6.14.2822,hash 30edeb7184db419c0015ff900be5170f199834a0,version_tag GCLOUD_VERSION_GCLOUDCORE_1.6.14.2822
+
+I/GCloudCore( 5779): PluginUtils try to load libgcloudcore.so
+
+I/on.pokemonunite( 5779): Thread[1,tid=5779,Native,Thread*=0x7d5c62919380,peer=0x73276270,"main"] recursive attempt to load library "/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64/libgcloudcore.so"
+
+I/GCloudCore( 5779): SetNativePluginManager:7d5cf29bd240
+
+I/        ( 5779): gs_GetCachePtr jvm:0x7d5cb2921990, className:com/gcore/gcloud/plugin/PluginUtils, methodName:GetNativePluginManager
+
+I/GCloudCore( 5779): GetNativePluginManager nativePluginManager:7d5cf29bd240
+
+I/        ( 5779): cached ptr:0x7d5cf29bd240
+
+I/        ( 5779): gs_GetGCloudPluginManager pluginManager:0x7d5cf29bd240
+
+I/GCloudCore( 5779): [2026-07-06 11:57:27 962] | Info | [GCloudCore] |5779| (PluginManager.mm:105)|Install| PluginManager::Install Success, plugin:0x7d5cf29bd080, pluginName:GCloudCore, pluginVersion:1.6.14.2822
+
+I/        ( 5779): PluginBase::RegisterPlugin PluginManager:0x7d5cf29bd240 , IPlugin:0x7d5cf29bd080
+
+I/ABase   ( 5779): CallTDMInitial
+
+D/nativeloader( 5779): Load /data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64/libTDataMaster.so using ns clns-7 from class loader (caller=/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/base.apk!classes2.dex): ok
+
+I/        ( 5779): gs_GetCachePtr jvm:0x7d5cb2921990, className:com/gcore/gcloud/plugin/PluginUtils, methodName:GetNativePluginManager
+
+I/GCloudCore( 5779): GetNativePluginManager nativePluginManager:7d5cf29bd240
+
+I/        ( 5779): cached ptr:0x7d5cf29bd240
+
+I/        ( 5779): gs_GetGCloudPluginManager pluginManager:0x7d5cf29bd240
+
+I/GCloudCore( 5779): [2026-07-06 11:57:27 968] | Info | [GCloudCore] |5779| (PluginManager.mm:105)|Install| PluginManager::Install Success, plugin:0x7d5d9293b3b8, pluginName:TDM, pluginVersion:1.39.011.2385
+
+I/        ( 5779): PluginBase::RegisterPlugin PluginManager:0x7d5cf29bd240 , IPlugin:0x7d5d9293b3b8
+
+I/GCloudCore( 5779): [2026-07-06 11:57:27 968] | Info | [GCloudCore] |5779| (PluginManager.mm:94)|Install| PluginManager::Install Repeat, plugin:0x7d5d9293b3b8, pluginName:TDM, pluginVersion:1.39.011.2385
+
+I/        ( 5779): PluginBase::RegisterPlugin PluginManager:0x7d5cf29bd240 , IPlugin:0x7d5d9293b3b8
+
+I/GCloudCore( 5779): [2026-07-06 11:57:27 969] | Info | [GCloudCore] |5779| (Application.cpp:127)|OnResume| CApplication::OnResume
+
+D/PGame   ( 5779): hideSystemUI start hide system ui
+
+I/pgame   ( 5779): [bugly] LoadGCloudSDK
+
+I/pgame   ( 5779): [bugly] loadPluginByReflection PluginCrosCurl
+
+I/GCloudCore( 5779): try to load libgcloudcore.so for the first time
+
+I/GCloudCore( 5779): GCloudUtils.loadLibrary:libPluginCrosCurl.so
+
+D/nativeloader( 5779): Load /data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64/libPluginCrosCurl.so using ns clns-7 from class loader (caller=/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/base.apk): ok
+
+I/        ( 5779): gs_GetCachePtr jvm:0x7d5cb2921990, className:com/gcore/gcloud/plugin/PluginUtils, methodName:GetNativePluginManager
+
+I/GCloudCore( 5779): GetNativePluginManager nativePluginManager:7d5cf29bd240
+
+I/        ( 5779): cached ptr:0x7d5cf29bd240
+
+I/        ( 5779): gs_GetGCloudPluginManager pluginManager:0x7d5cf29bd240
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 060] | Info | [GCloudCore] |5779| (PluginManager.mm:105)|Install| PluginManager::Install Success, plugin:0x7d5d9295aa08, pluginName:PluginCrosCurl, pluginVersion:1.0.000.1030
+
+I/        ( 5779): PluginBase::RegisterPlugin PluginManager:0x7d5cf29bd240 , IPlugin:0x7d5d9295aa08
+
+I/pgame   ( 5779): [bugly] loadPluginByReflection CrashSightPlugin
+
+I/GCloudCore( 5779): GCloudUtils.loadLibrary:libCrashSightPlugin.so
+
+D/nativeloader( 5779): Load /data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64/libCrashSightPlugin.so using ns clns-7 from class loader (caller=/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/base.apk): ok
+
+I/        ( 5779): gs_GetCachePtr jvm:0x7d5cb2921990, className:com/gcore/gcloud/plugin/PluginUtils, methodName:GetNativePluginManager
+
+I/GCloudCore( 5779): GetNativePluginManager nativePluginManager:7d5cf29bd240
+
+I/        ( 5779): cached ptr:0x7d5cf29bd240
+
+I/        ( 5779): gs_GetGCloudPluginManager pluginManager:0x7d5cf29bd240
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 061] | Info | [GCloudCore] |5779| (PluginManager.mm:105)|Install| PluginManager::Install Success, plugin:0x7d5d929599e8, pluginName:crashsight, pluginVersion:4.3.8.210
+
+I/        ( 5779): PluginBase::RegisterPlugin PluginManager:0x7d5cf29bd240 , IPlugin:0x7d5d929599e8
+
+I/pgame   ( 5779): [bugly] loadPluginByReflection TDataMaster
+
+I/GCloudCore( 5779): GCloudUtils.loadLibrary:libTDataMaster.so
+
+I/pgame   ( 5779): [bugly] loadPluginByReflection anogs
+
+I/GCloudCore( 5779): GCloudUtils.loadLibrary:libanogs.so
+
+D/nativeloader( 5779): Load /data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64/libanogs.so using ns clns-7 from class loader (caller=/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/base.apk): ok
+
+I/GCloudCore( 5779): GetNativePluginManager nativePluginManager:7d5cf29bd240
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 094] | Info | [GCloudCore] |5779| (PluginManager.mm:105)|Install| PluginManager::Install Success, plugin:0x7d5d92959b68, pluginName:TSS, pluginVersion:7.7.023.44077
+
+W/Settings( 5779): Setting adb_enabled has moved from android.provider.Settings.Secure to android.provider.Settings.Global.
+
+I/pgame   ( 5779): [bugly] loadPluginByReflection MSDKCore
+
+I/GCloudCore( 5779): GCloudUtils.loadLibrary:libMSDKCore.so
+
+D/nativeloader( 5779): Load /data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64/libMSDKCore.so using ns clns-7 from class loader (caller=/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/base.apk): ok
+
+V/[MSDK]  ( 5779): [0][A.D][2026-07-06 +9.0 11:57:28.179][5779, 5779][ (MSDK.cpp:39) JNI_OnLoad] : MSDK REGISTER_GCLOUD_PLUGIN Start
+
+I/        ( 5779): gs_GetCachePtr jvm:0x7d5cb2921990, className:com/gcore/gcloud/plugin/PluginUtils, methodName:GetNativePluginManager
+
+I/GCloudCore( 5779): GetNativePluginManager nativePluginManager:7d5cf29bd240
+
+I/        ( 5779): cached ptr:0x7d5cf29bd240
+
+I/        ( 5779): gs_GetGCloudPluginManager pluginManager:0x7d5cf29bd240
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 181] | Info | [GCloudCore] |5779| (PluginManager.mm:105)|Install| PluginManager::Install Success, plugin:0x7d5d92940ab8, pluginName:MSDK, pluginVersion:5.20.001.49
+
+I/        ( 5779): PluginBase::RegisterPlugin PluginManager:0x7d5cf29bd240 , IPlugin:0x7d5d92940ab8
+
+V/[MSDK]  ( 5779): [1][A.D][2026-07-06 +9.0 11:57:28.182][5779, 5779][ (MSDK.cpp:41) JNI_OnLoad] : MSDK REGISTER_GCLOUD_PLUGIN Finish
+
+V/[MSDK]  ( 5779): [2][A.D][2026-07-06 +9.0 11:57:28.182][5779, 5779][ (MSDK.cpp:43) JNI_OnLoad] : MSDK JNI_OnLoad START
+
+V/[MSDK]  ( 5779): [3][A.D][2026-07-06 +9.0 11:57:28.182][5779, 5779][ (MSDKLifeCycleAble.cpp:18) MSDKLifeCycleAble] : MSDKLifeCycleAble constructor
+
+V/[MSDK]  ( 5779): [4][A.D][2026-07-06 +9.0 11:57:28.186][5779, 5779][ (MSDKGroupNative.cpp:211) RegisterMSDKGroupModule] : MSDK GROUP MODULE METHODS REGISTRY SUCCESS
+
+V/[MSDK]  ( 5779): [5][A.D][2026-07-06 +9.0 11:57:28.187][5779, 5779][ (MSDKFriendNative.cpp:181) RegisterMSDKFriendModule] : MSDK FRIEND MODULE METHODS REGISTRY SUCCESS
+
+V/[MSDK]  ( 5779): [6][A.D][2026-07-06 +9.0 11:57:28.188][5779, 5779][ (MSDKWebViewNative.cpp:129) RegisterMSDKWeViewModule] : MSDK WEBVIEW MODULE METHODS REGISTRY SUCCESS
+
+V/[MSDK]  ( 5779): [7][A.D][2026-07-06 +9.0 11:57:28.189][5779, 5779][ (MSDKPushNative.cpp:276) RegisterMSDKPushModule] : MSDK PUSH MODULE METHODS REGISTRY SUCCESS
+
+V/[MSDK]  ( 5779): [8][A.D][2026-07-06 +9.0 11:57:28.189][5779, 5779][ (MSDKGameNative.cpp:139) RegisterMSDKGameModule] : MSDK GAME MODULE METHODS REGISTRY SUCCESS
+
+V/[MSDK]  ( 5779): [9][A.D][2026-07-06 +9.0 11:57:28.190][5779, 5779][ (MSDKUtilsNative.cpp:433) RegisterMSDKUtilsModule] : MSDK UTILS MODULE METHODS REGISTRY SUCCESS
+
+V/[MSDK]  ( 5779): [10][A.D][2026-07-06 +9.0 11:57:28.191][5779, 5779][ (MSDKExtendNative.cpp:94) RegisterMSDKExtendModule] : MSDK EXTEND MODULE METHODS REGISTRY SUCCESS
+
+V/[MSDK]  ( 5779): [11][A.D][2026-07-06 +9.0 11:57:28.191][5779, 5779][ (MSDKLBSNative.cpp:204) RegisterMSDKLBSModule] : MSDK LBS MODULE METHODS REGISTRY SUCCESS
+
+V/[MSDK]  ( 5779): [12][A.D][2026-07-06 +9.0 11:57:28.193][5779, 5779][ (MSDK.cpp:45) JNI_OnLoad] : MSDK JNI_OnLoad FINISH
+
+I/pgame   ( 5779): [bugly] loadPluginByReflection MSDKUnityAdapter
+
+I/GCloudCore( 5779): GCloudUtils.loadLibrary:libMSDKUnityAdapter.so
+
+D/nativeloader( 5779): Load /data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64/libMSDKUnityAdapter.so using ns clns-7 from class loader (caller=/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/base.apk): ok
+
+V/[MSDK]  ( 5779): [13][A.D][2026-07-06 +9.0 11:57:28.201][5779, 5779][ (MSDKUnityBridge.cpp:22) JNI_OnLoad] : MSDK Adapter JNI_OnLoad START 0x7d5cb2921990
+
+I/pgame   ( 5779): [bugly] loadPluginByReflection GPM
+
+I/GCloudCore( 5779): GCloudUtils.loadLibrary:libGPM.so
+
+W/libc    ( 5779): Access denied finding property "ro.debuggable"
+
+W/Thread-11( 5779): type=1400 audit(0.0:89): avc:  denied  { read } for  name="u:object_r:userdebug_or_eng_prop:s0" dev="tmpfs" ino=349 scontext=u:r:untrusted_app:s0:c213,c256,c512,c768 tcontext=u:object_r:userdebug_or_eng_prop:s0 tclass=file permissive=0 app=jp.pokemon.pokemonunite
+
+D/nativeloader( 5779): Load /data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64/libGPM.so using ns clns-7 from class loader (caller=/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/base.apk): ok
+
+I/GPMSDK  ( 5779): JNI_OnLoad GPMSDK
+
+I/        ( 5779): gs_GetCachePtr jvm:0x7d5cb2921990, className:com/gcore/gcloud/plugin/PluginUtils, methodName:GetNativePluginManager
+
+I/GCloudCore( 5779): GetNativePluginManager nativePluginManager:7d5cf29bd240
+
+I/        ( 5779): cached ptr:0x7d5cf29bd240
+
+I/        ( 5779): gs_GetGCloudPluginManager pluginManager:0x7d5cf29bd240
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 249] | Info | [GCloudCore] |5779| (PluginManager.mm:105)|Install| PluginManager::Install Success, plugin:0x7d5d9294dbf8, pluginName:GPMSDK, pluginVersion:3.0.0202.691_ano
+
+I/        ( 5779): PluginBase::RegisterPlugin PluginManager:0x7d5cf29bd240 , IPlugin:0x7d5d9294dbf8
+
+I/GPMSDK  ( 5779): JNI_OnLoad GPMSDK FINISHED
+
+I/pgame   ( 5779): [bugly] loadPluginByReflection tgpa
+
+I/GCloudCore( 5779): GCloudUtils.loadLibrary:libtgpa.so
+
+D/nativeloader( 5779): Load /data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64/libtgpa.so using ns clns-7 from class loader (caller=/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/base.apk): ok
+
+I/TGPA    ( 5779): use thread_local for new thread! 
+
+D/TGPA    ( 5779): the gradish version: v7.4.1 , v8 version: v8.3.0
+
+I/TGPA    ( 5779): native version: v4.1.0.2_international
+
+I/TGPA    ( 5779): gc version: GCLOUD_VERSION_TGPA_v4.1.0.2_international
+
+D/TGPA    ( 5779): Load library success! jar version is: 4.1.0.2 , lib version: v4.1.0.2_international , superframe: 4.1.0.2
+
+I/pgame   ( 5779): [bugly] loadPluginByReflection gcloud
+
+I/GCloudCore( 5779): GCloudUtils.loadLibrary:libgcloud.so
+
+D/nativeloader( 5779): Load /data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64/libgcloud.so using ns clns-7 from class loader (caller=/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/base.apk): ok
+
+I/GCloudLog( 5779): [5779] [GCloud.jni.cpp:115] [JNI_OnLoad] GCloud JNI Onload
+
+I/        ( 5779): gs_GetCachePtr jvm:0x7d5cb2921990, className:com/gcore/gcloud/plugin/PluginUtils, methodName:GetNativePluginManager
+
+I/GCloudCore( 5779): GetNativePluginManager nativePluginManager:7d5cf29bd240
+
+I/        ( 5779): cached ptr:0x7d5cf29bd240
+
+I/        ( 5779): gs_GetGCloudPluginManager pluginManager:0x7d5cf29bd240
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 303] | Info | [GCloudCore] |5779| (PluginManager.mm:105)|Install| PluginManager::Install Success, plugin:0x7d5d92961fc8, pluginName:GCloud, pluginVersion:2.20.01.686-Oversea
+
+I/        ( 5779): PluginBase::RegisterPlugin PluginManager:0x7d5cf29bd240 , IPlugin:0x7d5d92961fc8
+
+I/GCloudLog( 5779): [5779] [GCloud.jni.cpp:129] [JNI_OnLoad] GCloud JNI Onload end
+
+I/GCloudCore( 5779): addObserverByName Name:com.gsdk.gcloud.GCloudAppLifecycleListener
+
+I/GCloudCore( 5779): GCloudAppLifecycleObserver.class.isAssignableFrom(clz) false
+
+I/GCloudCore( 5779): addGenericObserverByName Success, observerName:com.gsdk.gcloud.GCloudAppLifecycleListener, _genericobservers.size():1
+
+I/GCloudCore( 5779): addObserverByName Name:com.tdatamaster.tdm.gcloud.lifecycle.PluginReportLifecycle
+
+I/GCloudCore( 5779): GCloudAppLifecycleObserver.class.isAssignableFrom(clz) false
+
+I/GCloudCore( 5779): addGenericObserverByName Success, observerName:com.tdatamaster.tdm.gcloud.lifecycle.PluginReportLifecycle, _genericobservers.size():2
+
+I/GCloudCore( 5779): addObserverByName Name:com.itop.gcloud.msdk.core.lifecycle.PluginMSDKLifecycle
+
+I/GCloudCore( 5779): GCloudAppLifecycleObserver.class.isAssignableFrom(clz) false
+
+I/GCloudCore( 5779): addGenericObserverByName Success, observerName:com.itop.gcloud.msdk.core.lifecycle.PluginMSDKLifecycle, _genericobservers.size():3
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 319] | Info | [GCloudCore] |5779| (:0)|| [[GCloudCore]]AppPath:/data/user/0/jp.pokemon.pokemonunite/,CachePath:/storage/emulated/0/Android/data/jp.pokemon.pokemonunite/cache/,DataPath:/storage/emulated/0/Android/data/jp.pokemon.pokemonunite/files/
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 319] | Info | [GCloudCore] |5779| (:0)|| [[GCloudCore]]CreateMainHandler success:Handler (android.os.Handler) {2cf3cb9}
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 320] | Info | [GCloudCore] |5779| (:0)|| [URLRequest]URLRequest init
+
+E/ENQSDK  ( 5779): checkTaskValid error:java.lang.ClassNotFoundException: com.enq.transceiver.TransceiverManager
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 320] | Info | [GCloudCore] |5779| (ABaseJni.cpp:442)|Java_com_gcore_abase_GCloudCore_nativeCreate| GCloud_nativeCreate g_bInited:0
+
+I/GCloud  ( 5779): SetPaths AppPath:/data/user/0/jp.pokemon.pokemonunite/, DataPath:/storage/emulated/0/Android/data/jp.pokemon.pokemonunite/files/, CachePath:/storage/emulated/0/Android/data/jp.pokemon.pokemonunite/cache/
+
+D/GCloudCore( 5779): [2026-07-06 11:57:28 321] | Debug | [GCloudCore] |5779| (IniFileImp.cpp:107)|Load| config file /storage/emulated/0/Android/data/jp.pokemon.pokemonunite/cache/RemoteConfig.config fopen return null
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 321] | Info | [GCloudCore] |5779| (IniFileImp.cpp:81)|CIniFileImpl| load config file cost 308 us
+
+D/GCloudCore( 5779): [2026-07-06 11:57:28 322] | Debug | [GCloudCore] |5779| (EncryptedIniFileImp.cpp:160)|Load| config file /storage/emulated/0/Android/data/jp.pokemon.pokemonunite/cache/RemoteConfig.config is not exist
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 323] | Info | [GCloudCore] |5779| (Logger.mm:433)|SetLogLevel| GCloudCore SetLogLevel:1
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 324] | Info | [GCloudCore] |5779| (Logger.mm:440)|SetLogLevel| GCloudCore SetLogLevel finished, final LogLevel:1
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 324] | Info | [GCloudCore] |5779| (Logger.mm:735)|Init| log init module GCloudCore, logMode 0, sync:1, use mmap:0, mmap cost 8 us
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 325] | Info | [GCloudCore] |5779| (Logger.mm:133)|LogCreateThread| pthread_create RemoveOldLogFilesThread:137832885274816
+
+I/GCloudCore( 5779): Get Intent param: null
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 326] | Info | [GCloudCore] |5779| (:0)|| [[GCloudCore]]GCloudCore Initialize ends
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 329] | Info | [GCloudCore] |5779| (AFileLogger.cpp:176)|_OpenLogFile| Open log file success: /storage/emulated/0/Android/data/jp.pokemon.pokemonunite/cache/GCloudSDKLog/GCloudCore/GCloudCore_2026070611.log
+
+I/GCloudCore( 5779): genericobserver pos:0 className:com.gsdk.gcloud.GCloudAppLifecycleListener
+
+I/LifecycleListener( 5779): onCreate
+
+I/LifecycleListener( 5779): onCreate args 2
+
+I/GCloud  ( 5779): GCloud()
+
+I/GCloud  ( 5779): AppPath:/data/user/0/jp.pokemon.pokemonunite/,CachePath:/storage/emulated/0/Android/data/jp.pokemon.pokemonunite/cache/,DataPath:/storage/emulated/0/Android/data/jp.pokemon.pokemonunite/files/
+
+I/GCloud  ( 5779): CreateMainHandler success:Handler (android.os.Handler) {f9deb75}
+
+I/GCloud  ( 5779): GCloud Init
+
+I/GCloudLog( 5779): [5779] [GCloud.jni.cpp:135] [Java_com_gsdk_gcloud_GCloud_gcloudInit] gcloudInit :g_pJavaVm:0x0, env:0x7d5dc291b610, g_JniObj:0x0, context:0x7ffda8b6700c, obj:0x7ffda8b67008
+
+I/GCloud  ( 5779): SetPaths AppPath:/data/user/0/jp.pokemon.pokemonunite/, DataPath:/storage/emulated/0/Android/data/jp.pokemon.pokemonunite/files/, CachePath:/storage/emulated/0/Android/data/jp.pokemon.pokemonunite/cache/
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 340] | Info | [GCloudCore] |5988| (:0)|| [NetworkChangeHelper]network available for wifi
+
+I/GCloud  ( 5779): QRCoce Init
+
+I/GCloudLog( 5779): [5779] [GCloud.jni.cpp:224] [Java_com_gsdk_gcloud_qr_QRCodeAPI_qrCodeInit] apolloQR JNI QRCodeAPI qrCodeInit
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 342] | Info | [GCloudCore] |5988| (:0)|| [NetworkChangeHelper]Network State change to TYPE_WIFI
+
+I/GCloudCore( 5779): genericobserver pos:1 className:com.tdatamaster.tdm.gcloud.lifecycle.PluginReportLifecycle
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 343] | Event | [GCloudCore] |5988| (ANetwork.cpp:172)|OnNetworkStateChanged| OnNetworkStateChanged to:2
+
+I/ABase   ( 5779): performOnMainThread begin
+
+W/TDM     ( 5779): [TDM][W]now Android logLevel is 1, please use warning or error level in production
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 343] | Info | [GCloudCore] |5988| (:0)|| [[GCloudCore]]callbackFromJNI Main Thread:Thread[main,5,main]Current Thread:Thread[ConnectivityThread,5,main]
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 343] | Info | [GCloudCore] |5988| (:0)|| [[GCloudCore]]sendMsg before sendMessage:Handler (android.os.Handler) {2cf3cb9}
+
+D/NetworkChangeHelper( 5779): network available
+
+I/NetworkChangeHelper( 5779): network available for wifi
+
+I/NetworkChangeHelper( 5779): Network State change to TYPE_WIFI
+
+W/GCloudLog( 5779): [5988] [Network.cpp:168] [OnNetworkStateChanged] OnNetworkStateChanged to:2
+
+I/TDM     ( 5779): [TDM][I][2026-07-06 11:57:28 348][0x7d5b506d73bc][(TDataMasterCommon.cpp:518) LogTDMBuildOptions] : __ENABLE_TDM_STL__
+
+I/TDM     ( 5779): [TDM][I][2026-07-06 11:57:28 348][0x7d5b506d73bc][(TDataMasterCommon.cpp:528) LogTDMBuildOptions] : _TDM_GCLOUD_
+
+I/GCloudLog( 5779): [5988] [GTargetBase_Android.cpp:34] [GCloudPerformSelectorOnMainThread] performOnMainThread begin
+
+I/GCloud  ( 5779): callbackFromJNI Main Thread:Thread[main,5,main]Current Thread:Thread[ConnectivityThread,5,main]
+
+I/TDM     ( 5779): [TDM][I][2026-07-06 11:57:28 350][0x7d5b506d73bc][(TDataMasterCommon.cpp:529) LogTDMBuildOptions] : GCLOUD_VERSION_TDM_1.39.011.2385
+
+I/TDM     ( 5779): [TDM][W][2026-07-06 11:57:28 350][0x7d5b506d73bc][(TDataMasterCommon.cpp:532) LogTDMBuildOptions] : __ENABLE_TDM_ANO__
+
+I/GCloud  ( 5779): sendMsg before sendMessage:Handler (android.os.Handler) {f9deb75}
+
+D/NetworkChangeHelper( 5779): internet online
+
+W/TDM     ( 5779): [TDM][W]now Android logLevel is 1, please use warning or error level in production
+
+I/TDM     ( 5779): [TDM][I][2026-07-06 11:57:28 355][0x7d5b506d73bc][(TSystem.cpp:172) RouteTestEnviorment] : /data/user/0/jp.pokemon.pokemonunite/files
+
+I/TDM     ( 5779): [TDM][W][2026-07-06 11:57:28 358][0x7d5b506d73bc][(TSystem.cpp:33) GetAppKey] : AppKey is null!
+
+I/TDM     ( 5779): [TDM][I][2026-07-06 11:57:28 362][0x7d5b506d73bc][(TDataMasterEventManager.cpp:110) Initialize] : App Info: [AppID: 669535640, AppChannel: -1, AppVersion: 1.23.1.1(1169236), BundleID:jp.pokemon.pokemonunite]
+
+I/TDM     ( 5779): [TDM][I][2026-07-06 11:57:28 363][0x7d5b506d73bc][(TDataMasterEventManager.cpp:111) Initialize] : TDM version is: 1.39.011.2385
+
+I/TDM     ( 5779): [TDM][I][2026-07-06 11:57:28 363][0x7d5b506d73bc][(TDataMasterReportManager.cpp:59) Initialize] : TDM in formal environment, use formal host and port, host: https://tdm.deltaverse-intl.com/tdm/v1/route
+
+I/TDM     ( 5779): [TDM][I][2026-07-06 11:57:28 371][0x7d5b506d73bc][(HttpAndroidNative.cpp:62) HttpPost] : http network post:https://tdm.deltaverse-intl.com/tdm/v1/route
+
+I/HttpNetwork( 5779): [TDM][I]http post with url:https://tdm.deltaverse-intl.com/tdm/v1/route, post body length: 211
+
+D/TrafficStats( 5779): tagSocket(156) with statsTag=0xffffffff, statsUid=-1
+
+I/GCloudCore( 5779): genericobserver pos:2 className:com.itop.gcloud.msdk.core.lifecycle.PluginMSDKLifecycle
+
+I/PluginMSDK( 5779): onCreate, activity=com.nishiki.pgame.n.PGameActivity@b5eb13
+
+I/GCloudCore( 5779): GCloudUtils.loadLibrary:libTDataMaster.so
+
+I/GCloudCore( 5779): GCloudUtils.loadLibrary:libMSDKCore.so
+
+V/[MSDK]  ( 5779): [14][A.D][2026-07-06 +9.0 11:57:28.381][5779, 5779][ (MSDKConfigManager.cpp:143) MSDKConfigManager] : Init MSDKConfigManager
+
+V/[MSDK]  ( 5779): [15][A.D][2026-07-06 +9.0 11:57:28.382][5779, 5779][ (MSDKJNIHelper.cpp:266) NewGlobalObject] : execute newGlobalObject success
+
+V/[MSDK]  ( 5779): [16][A.D][2026-07-06 +9.0 11:57:28.386][5779, 5779][ (MSDKFileUtilsIMPL.cpp:62) IsFileExist] : start fileName = itop_remote_config , isInternal = 1, isCreateIfNotExist = 0
+
+V/[MSDK]  ( 5779): [17][A.D][2026-07-06 +9.0 11:57:28.386][5779, 5779][ (MSDKJNIHelper.cpp:266) NewGlobalObject] : execute newGlobalObject success
+
+V/[MSDK]  ( 5779): [18][A.D][2026-07-06 +9.0 11:57:28.387][5779, 5779][ (MSDKFileUtilsIMPL.cpp:73) IsFileExist] : invoke java 'isFileExist' function with sig = (Ljava/lang/String;ZZ)Ljava/lang/String;
+
+V/[MSDK]  ( 5779): [19][A.D][2026-07-06 +9.0 11:57:28.387][5779, 5779][ (MSDKFileUtilsIMPL.cpp:86) IsFileExist] : invoke 'isFileExist' function return 
+
+V/[MSDK]  ( 5779): [20][A.D][2026-07-06 +9.0 11:57:28.387][5779, 5779][ (MSDKFileUtilsIMPL.cpp:62) IsFileExist] : start fileName = itop_remote_config.tmp , isInternal = 1, isCreateIfNotExist = 0
+
+V/[MSDK]  ( 5779): [21][A.D][2026-07-06 +9.0 11:57:28.388][5779, 5779][ (MSDKJNIHelper.cpp:266) NewGlobalObject] : execute newGlobalObject success
+
+V/[MSDK]  ( 5779): [22][A.D][2026-07-06 +9.0 11:57:28.388][5779, 5779][ (MSDKFileUtilsIMPL.cpp:73) IsFileExist] : invoke java 'isFileExist' function with sig = (Ljava/lang/String;ZZ)Ljava/lang/String;
+
+V/[MSDK]  ( 5779): [23][A.D][2026-07-06 +9.0 11:57:28.388][5779, 5779][ (MSDKFileUtilsIMPL.cpp:86) IsFileExist] : invoke 'isFileExist' function return 
+
+V/[MSDK]  ( 5779): [24][A.D][2026-07-06 +9.0 11:57:28.389][5779, 5779][ (MSDKFileUtilsIMPL.cpp:62) IsFileExist] : start fileName = itop_game_set_config , isInternal = 1, isCreateIfNotExist = 0
+
+V/[MSDK]  ( 5779): [25][A.D][2026-07-06 +9.0 11:57:28.389][5779, 5779][ (MSDKJNIHelper.cpp:266) NewGlobalObject] : execute newGlobalObject success
+
+V/[MSDK]  ( 5779): [26][A.D][2026-07-06 +9.0 11:57:28.389][5779, 5779][ (MSDKFileUtilsIMPL.cpp:73) IsFileExist] : invoke java 'isFileExist' function with sig = (Ljava/lang/String;ZZ)Ljava/lang/String;
+
+V/[MSDK]  ( 5779): [27][A.D][2026-07-06 +9.0 11:57:28.389][5779, 5779][ (MSDKFileUtilsIMPL.cpp:86) IsFileExist] : invoke 'isFileExist' function return 
+
+V/[MSDK]  ( 5779): [28][A.D][2026-07-06 +9.0 11:57:28.390][5779, 5779][ (MSDKFileUtilsIMPL.cpp:62) IsFileExist] : start fileName = itop_game_set_config.tmp , isInternal = 1, isCreateIfNotExist = 0
+
+V/[MSDK]  ( 5779): [29][A.D][2026-07-06 +9.0 11:57:28.390][5779, 5779][ (MSDKJNIHelper.cpp:266) NewGlobalObject] : execute newGlobalObject success
+
+V/[MSDK]  ( 5779): [30][A.D][2026-07-06 +9.0 11:57:28.390][5779, 5779][ (MSDKFileUtilsIMPL.cpp:73) IsFileExist] : invoke java 'isFileExist' function with sig = (Ljava/lang/String;ZZ)Ljava/lang/String;
+
+V/[MSDK]  ( 5779): [31][A.D][2026-07-06 +9.0 11:57:28.391][5779, 5779][ (MSDKFileUtilsIMPL.cpp:86) IsFileExist] : invoke 'isFileExist' function return 
+
+V/[MSDK]  ( 5779): [32][A.D][2026-07-06 +9.0 11:57:28.392][5779, 5779][ (MSDKConfigManager.cpp:126) InitConfigFromINI] : [GCRemoteConfig] Init, key:MSDK_GCLOUD_REMOTE_CONFIG_ENABLE value:ture
+
+V/[MSDK]  ( 5779): [33][A.D][2026-07-06 +9.0 11:57:28.393][5779, 5779][ (MSDKConfigManager.cpp:130) InitConfigFromINI] : [GCRemoteConfig] Init success
+
+V/[MSDK]  ( 5779): [34][A.D][2026-07-06 +9.0 11:57:28.393][5779, 5779][ (MSDKConfigManager.cpp:253) Get] : config from game, key:MSDK_LIFECYCLE_OBSERVERS value:
+
+V/[MSDK]  ( 5779): [35][A.D][2026-07-06 +9.0 11:57:28.393][5779, 5779][ (MSDKConfigManager.cpp:257) Get] : config from remote, key:MSDK_LIFECYCLE_OBSERVERS value:
+
+V/[MSDK]  ( 5779): [36][A.D][2026-07-06 +9.0 11:57:28.394][5779, 5779][ (MSDKConfigManager.cpp:261) Get] : config from gc remote, key:MSDK_LIFECYCLE_OBSERVERS value:
+
+V/[MSDK]  ( 5779): [37][A.D][2026-07-06 +9.0 11:57:28.394][5779, 5779][ (MSDKConfigManager.cpp:265) Get] : config from default, key:MSDK_LIFECYCLE_OBSERVERS value:Twitter,Adjust,Facebook,Google,Twitter,XG,Garena,Line,EmbedWebview,UNO,AppsFlyer,SelfWeb,HMS,Nintendo,Pokemon
+
+V/[MSDK]  ( 5779): [38][A.D][2026-07-06 +9.0 11:57:28.396][5779, 5779][ (MSDKConfigManager.cpp:253) Get] : config from game, key:MSDK_LIFECYCLE_SCHEME value:
+
+V/[MSDK]  ( 5779): [39][A.D][2026-07-06 +9.0 11:57:28.396][5779, 5779][ (MSDKConfigManager.cpp:257) Get] : config from remote, key:MSDK_LIFECYCLE_SCHEME value:
+
+V/[MSDK]  ( 5779): [40][A.D][2026-07-06 +9.0 11:57:28.396][5779, 5779][ (MSDKConfigManager.cpp:261) Get] : config from gc remote, key:MSDK_LIFECYCLE_SCHEME value:
+
+V/[MSDK]  ( 5779): [41][A.D][2026-07-06 +9.0 11:57:28.397][5779, 5779][ (MSDKConfigManager.cpp:265) Get] : config from default, key:MSDK_LIFECYCLE_SCHEME value:0
+
+V/[MSDK]  ( 5779): [42][A.D][2026-07-06 +9.0 11:57:28.397][5779, 5779][ (MSDKLifeCycleNative.cpp:31) MSDKLifeCycleOnCreateNative] : OnCreateNative
+
+V/[MSDK]  ( 5779): [43][A.D][2026-07-06 +9.0 11:57:28.398][5779, 5779][ (MSDKCloudGame.cpp:32) DispatchAction] : MSDK Intent scheme: {"SO_PATH":"\/data\/user\/0\/jp.pokemon.pokemonunite\/files\/Resources\/1169236\/arm64-v8a","isAppetize":true,"isAppio":true}
+
+V/[MSDK]  ( 5779): [44][A.D][2026-07-06 +9.0 11:57:28.398][5779, 5779][ (MSDKCloudGame.cpp:67) IsFromCloudGame] : [ {"SO_PATH":"\/data\/user\/0\/jp.pokemon.pokemonunite\/files\/Resources\/1169236\/arm64-v8a","isAppetize":true,"isAppio":true} ] is or no FromCloudGame
+
+V/[MSDK]  ( 5779): [45][A.D][2026-07-06 +9.0 11:57:28.398][5779, 5779][ (MSDKCloudGame.cpp:34) DispatchAction] : MSDK Intent scheme: not from cloud game
+
+V/[MSDK]  ( 5779): [46][A.D][2026-07-06 +9.0 11:57:28.400][5779, 5779][ (MSDKObserverManager.cpp:41) Update] : lifecycle update onCreate
+
+V/[MSDK]  ( 5779): [47][A.D][2026-07-06 +9.0 11:57:28.401][5779, 5779][ (MSDKConfigManager.cpp:253) Get] : config from game, key:MSDK_GAME_ID value:
+
+V/[MSDK]  ( 5779): [48][A.D][2026-07-06 +9.0 11:57:28.401][5779, 5779][ (MSDKConfigManager.cpp:257) Get] : config from remote, key:MSDK_GAME_ID value:
+
+V/[MSDK]  ( 5779): [49][A.D][2026-07-06 +9.0 11:57:28.402][5779, 5779][ (MSDKConfigManager.cpp:261) Get] : config from gc remote, key:MSDK_GAME_ID value:
+
+V/[MSDK]  ( 5779): [50][A.D][2026-07-06 +9.0 11:57:28.403][5779, 5779][ (MSDKConfigManager.cpp:265) Get] : config from default, key:MSDK_GAME_ID value:16292
+
+V/[MSDK]  ( 5779): [51][A.D][2026-07-06 +9.0 11:57:28.403][5779, 5779][ (MSDKConfigManager.cpp:253) Get] : config from game, key:MSDK_URL value:
+
+V/[MSDK]  ( 5779): [52][A.D][2026-07-06 +9.0 11:57:28.403][5779, 5779][ (MSDKConfigManager.cpp:257) Get] : config from remote, key:MSDK_URL value:
+
+V/[MSDK]  ( 5779): [53][A.D][2026-07-06 +9.0 11:57:28.404][5779, 5779][ (MSDKConfigManager.cpp:261) Get] : config from gc remote, key:MSDK_URL value:
+
+V/[MSDK]  ( 5779): [54][A.D][2026-07-06 +9.0 11:57:28.404][5779, 5779][ (MSDKConfigManager.cpp:265) Get] : config from default, key:MSDK_URL value:https://msdk.gcdcrs.com
+
+V/[MSDK]  ( 5779): [55][A.D][2026-07-06 +9.0 11:57:28.405][5779, 5779][ (MSDKConfigManager.cpp:317) Get] : config key: MSDK_DEBUG, value: false
+
+V/[MSDK]  ( 5779): [56][A.D][2026-07-06 +9.0 11:57:28.405][5779, 5779][ (MSDKLogUtil.cpp:261) resetLogSetting] : current loglevel : 0
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 406] | Event | [GCloudCore] |5779| (mmap_util.cpp:43)|open_mmap_file| copy data 2 mmap file success
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 407] | Info | [GCloudCore] |5779| (Logger.mm:133)|LogCreateThread| pthread_create XLogThread:137828704946368
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 409] | Info | [GCloudCore] |5779| (Logger.mm:735)|Init| log init module MSDK, logMode 1, sync:0, use mmap:1, mmap cost 2053 us
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 409] | Info | [GCloudCore] |5779| (Logger.mm:433)|SetLogLevel| MSDK SetLogLevel:4
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 409] | Info | [GCloudCore] |5779| (Logger.mm:440)|SetLogLevel| MSDK SetLogLevel finished, final LogLevel:4
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 429] | Info | [GCloudCore] |5779| (TraceIdManager.cpp:40)|TraceIdManager| [GTrace] TraceConfig LowerLimit:5, UpperLimit:60, RequestCount:30, StoreFileName:/storage/emulated/0/Android/data/jp.pokemon.pokemonunite/cache/traceids.store
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 430] | Info | [GCloudCore] |5779| (TraceService.mm:91)|initTargetList| [GTrace] TargetMode:1
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 430] | Info | [GCloudCore] |5779| (TraceService.mm:40)|TraceService| [GTrace] GTraceClient IsEnabled:0
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 431] | Info | [GCloudCore] |5779| (GCloudCoreReportService.cpp:62)|CreateEvent| GCloudCoreReportService::CreateEvent, dataType : 3, srcID : 2003, eventName : plugin
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 465] | Info | [GCloudCore] |5779| (GCloudCoreReportService.cpp:62)|CreateEvent| GCloudCoreReportService::CreateEvent, dataType : 3, srcID : 2003, eventName : http
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 472] | Info | [GCloudCore] |5992| (GCloudCoreReportService.cpp:62)|CreateEvent| GCloudCoreReportService::CreateEvent, dataType : 3, srcID : 2003, eventName : monitor
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 475] | Info | [GCloudCore] |5779| (RemoteConfig.cpp:167)|SetUserInfo| module MSDK SetUserInfo channelid 0 and openid.
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 475] | Info | [GCloudCore] |5779| (IniFileImp.cpp:81)|CIniFileImpl| load config file cost 87 us
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 494] | Info | [GCloudCore] |5779| (RemoteConfig.cpp:174)|Fetch| module MSDK Fetch
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 495] | Info | [GCloudCore] |5779| (ConfigureImpl.cpp:285)|Request| Request config, channel: 0, openID: ,  ruleID: 0
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 505] | Info | [GCloudCore] |5779| (ConfigureImpl.cpp:296)|Request| comParams: {"app_ver":"1.23.1.1","bid":"jp.pokemon.pokemonunite","cid":"0","date":"2026-07-06","did":"g_dd87ddcaa570cbf45373f9a8629e0f86","gid":"669535640","mfrs":"ForbiddenGetBrand","mtype":"ForbiddenGetModel","oid":"","os":"Android","os_ver":"15","sdk_list":{"GCloud":{"ver":"2.20.01.686-Oversea"},"GCloudCore":{"ver":"1.6.14.2822"},"GPMSDK":{"ver":"3.0.0202.691_ano"},"MSDK":{"ver":"5.20.001.49"},"PluginCrosCurl":{"ver":"1.0.000.1030"},"TDM":{"ver":"1.39.011.2385"},"TSS":{"ver":"7.7.023.44077"},"crashsight":{"ver":"4.3.8.210"}},"spid":""}
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 505] | Info | [GCloudCore] |5779| (ConfigureImpl.cpp:312)|Request| RemoteConfig host:https://gcloudctrl.iegcom.com, url: [https://gcloudctrl.iegcom.com/cfgpush/getConfig?com_params=%7B%22app_ver%22%3A%221.23.1.1%22%2C%22bid%22%3A%22jp.pokemon.pokemonunite%22%2C%22cid%22%3A%220%22%2C%22date%22%3A%222026-07-06%22%2C%22did%22%3A%22g_dd87ddcaa570cbf45373f9a8629e0f86%22%2C%22gid%22%3A%22669535640%22%2C%22mfrs%22%3A%22ForbiddenGetBrand%22%2C%22mtype%22%3A%22ForbiddenGetModel%22%2C%22oid%22%3A%22%22%2C%22os%22%3A%22Android%22%2C%22os_ver%22%3A%2215%22%2C%22sdk_list%22%3A%7B%22GCloud%22%3A%7B%22ver%22%3A%222.20.01.686-Oversea%22%7D%2C%22GCloudCore%22%3A%7B%22ver%22%3A%221.6.14.2822%22%7D%2C%22GPMSDK%22%3A%7B%22ver%22%3A%223.0.0202.691_ano%22%7D%2C%22MSDK%22%3A%7B%22ver%22%3A%225.20.001.49%22%7D%2C%22PluginCrosCurl%22%3A%7B%22ver%22%3A%221.0.000.1030%22%7D%2C%22TDM%22%3A%7B%22ver%22%3A%221.39.011.2385%22%7D%2C%22TSS%22%3A%7B%22ver%22%3A%227.7.023.44077%22%7D%2C%22crashsight%22%3A%7B%22ver%22%3A%2
+
+I/GCloudCore( 5779): 24.3.8.210%22%7D%7D%2C%22spid%22%3A%22%22%7D%0A&biz_params=%7B%22rule_id%22%3A0%7D%0A&r=1783306648], maxRetryCount 3, retryCount 3
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 506] | Info | [GCloudCore] |5779| (CurlManager.cpp:44)|isUsePluginCurl| HttpMode(0=Native,2=CCurl) is (0)
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 506] | Info | [GCloudCore] |5779| (ConfigHttpTaskImp.cpp:77)|NativeGet| NativeGet
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 506] | Info | [GCloudCore] |5779| (UrlRequest.cpp:126)|Initialize| UrlRequest::Initialize https://gcloudctrl.iegcom.com/cfgpush/getConfig?com_params=%7B%22app_ver%22%3A%221.23.1.1%22%2C%22bid%22%3A%22jp.pokemon.pokemonunite%22%2C%22cid%22%3A%220%22%2C%22date%22%3A%222026-07-06%22%2C%22did%22%3A%22g_dd87ddcaa570cbf45373f9a8629e0f86%22%2C%22gid%22%3A%22669535640%22%2C%22mfrs%22%3A%22ForbiddenGetBrand%22%2C%22mtype%22%3A%22ForbiddenGetModel%22%2C%22oid%22%3A%22%22%2C%22os%22%3A%22Android%22%2C%22os_ver%22%3A%2215%22%2C%22sdk_list%22%3A%7B%22GCloud%22%3A%7B%22ver%22%3A%222.20.01.686-Oversea%22%7D%2C%22GCloudCore%22%3A%7B%22ver%22%3A%221.6.14.2822%22%7D%2C%22GPMSDK%22%3A%7B%22ver%22%3A%223.0.0202.691_ano%22%7D%2C%22MSDK%22%3A%7B%22ver%22%3A%225.20.001.49%22%7D%2C%22PluginCrosCurl%22%3A%7B%22ver%22%3A%221.0.000.1030%22%7D%2C%22TDM%22%3A%7B%22ver%22%3A%221.39.011.2385%22%7D%2C%22TSS%22%3A%7B%22ver%22%3A%227.7.023.44077%22%7D%2C%22crashsight%22%3A%7B%22ver%22%3A%224.3.8.210%22%7D%7D%2C%22spid%22
+
+I/GCloudCore( 5779): %3A%22%22%7D%0A&biz_params=%7B%22rule_id%22%3A0%7D%0A&r=1783306648 20000
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 507] | Info | [GCloudCore] |5779| (UrlRequest.cpp:180)|SetDelegate| UrlRequest::SetDelegate listener 0x7d5d7294d1c8, dataTask 0x7d5d7294d180
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 507] | Info | [GCloudCore] |5779| (UrlRequest.cpp:239)|Get| UrlRequest::Get
+
+D/TrafficStats( 5779): tagSocket(167) with statsTag=0xffffffff, statsUid=-1
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 509] | Info | [GCloudCore] |5779| (GCloudCoreReportService.cpp:62)|CreateEvent| GCloudCoreReportService::CreateEvent, dataType : 3, srcID : 2003, eventName : plugin
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 514] | Info | [GCloudCore] |5779| (PluginManager.jni.cpp:102)|Java_com_gcore_gcloud_plugin_PluginUtils_nativeStartup| Java_com_gcore_gcloud_plugin_PluginUtils_nativeStartup
+
+D/nativeloader( 5779): Load libitophttpdns.so using ns clns-7 from class loader (caller=/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/base.apk!classes2.dex): dlopen failed: library "libitophttpdns.so" not found
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 515] | Info | [GCloudCore] |5779| (ServiceRegister.cpp:21)|Register| ServiceRegister::Register serviceName:CONNECTOR
+
+W/HttpDns ( 5779): Load specialhttpdns so failed:java.lang.UnsatisfiedLinkError: dlopen failed: library "libitophttpdns.so" not found
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 516] | Info | [GCloudCore] |5779| (GCloudCoreInnerPlugin.mm:122)|OnStartup| GCloudCoreInnerPlugin::OnStartup
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 516] | Info | [GCloudCore] |5779| (ServiceRegister.cpp:21)|Register| ServiceRegister::Register serviceName:COREREPORT
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 516] | Info | [GCloudCore] |5779| (ServiceRegister.cpp:21)|Register| ServiceRegister::Register serviceName:GTRACE
+
+E/on.pokemonunite( 5779): No implementation found for int com.tencent.itop.httpdns.base.jni.Jni.getNetworkStack() (tried Java_com_tencent_itop_httpdns_base_jni_Jni_getNetworkStack and Java_com_tencent_itop_httpdns_base_jni_Jni_getNetworkStack__) - is the library loaded, e.g. System.loadLibrary?
+
+W/HttpDns ( 5779): Get network stack failed
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 519] | Info | [GCloudCore] |5779| (ServiceRegister.cpp:21)|Register| ServiceRegister::Register serviceName:REMOTECONFIG
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 519] | Info | [GCloudCore] |5779| (ServiceRegister.cpp:21)|Register| ServiceRegister::Register serviceName:CONFIGFILE
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 520] | Info | [GCloudCore] |5779| (OperationQueue.cpp:24)|GetInstance| Operation mode is 1
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 520] | Info | [GCloudCore] |5779| (OperationQueueImp.cpp:113)|OperationQueueImp| OperationQueueImp(0x7d5c529824d0)
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 521] | Info | [GCloudCore] |5779| (OperationQueueImp.cpp:119)|OperationQueueImp| check _intervalPerLoop 10
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 521] | Info | [GCloudCore] |5779| (OperationQueueImp.cpp:254)|createThread| pthread_create onThreadProc:0x7d5ab98a18c0
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 522] | Info | [GCloudCore] |5779| (OperationQueueImp.cpp:254)|createThread| pthread_create onThreadProc:0x7d5ab86a18c0
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 522] | Info | [GCloudCore] |5779| (OperationQueueImp.cpp:233)|createThreadList| pthread_create onThreadManageProc:0x7d5ab74a18c0
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 523] | Info | [GCloudCore] |5992| (GCloudCoreReportService.cpp:62)|CreateEvent| GCloudCoreReportService::CreateEvent, dataType : 3, srcID : 2003, eventName : plugin
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 524] | Info | [GCloudCore] |5779| (Logger.mm:735)|Init| log init module GPMSDK, logMode 0, sync:1, use mmap:0, mmap cost 1 us
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 524] | Info | [GCloudCore] |5779| (Logger.mm:433)|SetLogLevel| GPMSDK SetLogLevel:2
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 524] | Info | [GCloudCore] |5779| (Logger.mm:440)|SetLogLevel| GPMSDK SetLogLevel finished, final LogLevel:2
+
+I/        ( 5779): PluginMSDK OnStartup
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 524] | Info | [GCloudCore] |5779| (ServiceRegister.cpp:21)|Register| ServiceRegister::Register serviceName:ACCOUNT
+
+I/        ( 5779): PluginCrosCurl OnStartup
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 527] | Info | [GCloudCore] |5992| (GCloudCoreReportService.cpp:62)|CreateEvent| GCloudCoreReportService::CreateEvent, dataType : 3, srcID : 2003, eventName : monitor
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 555] | Info | [GCloudCore] |5779| (ServiceRegister.cpp:21)|Register| ServiceRegister::Register serviceName:CurlFuncQuery
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 555] | Info | [GCloudCore] |5779| (ServiceRegister.cpp:21)|Register| ServiceRegister::Register serviceName:REPORT
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 556] | Info | [GCloudCore] |5779| (PluginManager.jni.cpp:108)|Java_com_gcore_gcloud_plugin_PluginUtils_nativePostStartup| Java_com_gcore_gcloud_plugin_PluginUtils_nativePostStartup
+
+W/GCloudLog( 5779): [5779] [GCloudLog.cpp:47] [Initialize] Log Type:2
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 557] | Info | [GCloudCore] |5779| (Logger.mm:735)|Init| log init module GCloud, logMode 0, sync:1, use mmap:0, mmap cost 1 us
+
+W/GCloud  ( 5779): [2026-07-06 11:57:28 559] | Warning | [GCloud] |5779| (GCloudReport.cpp:42)|Initialize| Report Type:2
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 559] | Info | [GCloudCore] |5779| (AFileLogger.cpp:176)|_OpenLogFile| Open log file success: /storage/emulated/0/Android/data/jp.pokemon.pokemonunite/cache/GCloudSDKLog/GCloud/GCloud_2026070611.log
+
+W/GCloud  ( 5779): [2026-07-06 11:57:28 560] | Warning | [GCloud] |5779| (GCloudConfig.cpp:46)|Initialize| Config Type:2
+
+I/GCloud  ( 5779): [2026-07-06 11:57:28 560] | Info | [GCloud] |5779| (OneSDKPlugin.mm:45)|OnPostStartup| OneSDKPlugin::OnPostStartup
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 560] | Info | [GCloudCore] |5779| (GCloudCoreInnerPlugin.mm:169)|OnPostStartup| GCloudCoreInnerPlugin::OnPostStartup
+
+I/GCloudCore( 5779): get context from activity
+
+I/GCloudCore( 5779): registerBugly finish
+
+I/        ( 5779): PluginMSDK OnPostStartup
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 562] | Info | [GCloudCore] |5779| (GCloudCoreReportService.cpp:62)|CreateEvent| GCloudCoreReportService::CreateEvent, dataType : 3, srcID : 2000, eventName : GCloudSDK_Versions
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 569] | Info | [GCloudCore] |5779| (Application.cpp:116)|OnPause| CApplication::OnPause Observersize:0
+
+I/GCloudCore( 5779): genericobserver pos:0 className:com.gsdk.gcloud.GCloudAppLifecycleListener
+
+I/LifecycleListener( 5779): onPause
+
+I/GCloud  ( 5779): onPause
+
+I/GCloud  ( 5779): [2026-07-06 11:57:28 570] | Info | [GCloud] |5779| (GCloud.jni.cpp:203)|Java_com_gsdk_gcloud_GCloud_setAppStatus| SetAppStatus :status:3
+
+I/GCloud  ( 5779): [2026-07-06 11:57:28 571] | Info | [GCloud] |5779| (GCloud.jni.cpp:214)|Java_com_gsdk_gcloud_GCloud_setAppStatus| SetAppStatus :refresh status:3
+
+I/GCloudCore( 5779): genericobserver pos:1 className:com.tdatamaster.tdm.gcloud.lifecycle.PluginReportLifecycle
+
+I/GCloudCore( 5779): genericobserver pos:2 className:com.itop.gcloud.msdk.core.lifecycle.PluginMSDKLifecycle
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 575] | Info | [GCloudCore] |5779| (:0)|| [[GCloudCore]]handleMessage Main Thread:Thread[main,5,main]Current Thread:Thread[main,5,main]
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 576] | Info | [GCloudCore] |5779| (ConfigureImpl.cpp:268)|OnNetworkStateChanged| ANetworkState 2, _state 2
+
+I/GCloud  ( 5779): handleMessage Main Thread:Thread[main,5,main]Current Thread:Thread[main,5,main]
+
+D/PGame   ( 5779): hideSystemUI start hide system ui
+
+D/VRI[PGameLauncherActivity]( 5779): visibilityChanged oldVisibility=true newVisibility=false
+
+D/TrafficStats( 5779): tagSocket(133) with statsTag=0xffffffff, statsUid=-1
+
+W/WindowOnBackDispatcher( 5779): sendCancelIfRunning: isInProgress=false callback=android.view.ViewRootImpl$$ExternalSyntheticLambda11@2746cd7
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 644] | Info | [GCloudCore] |6001| (GCloudCoreInnerPlugin.mm:265)|onStartGTraceClient| GCloudCoreInnerPlugin::onStartGTraceClient begin
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 644] | Event | [GCloudCore] |6001| (GCloudCoreInnerPlugin.mm:292)|onStartGTraceClient| [GTrace] onStartGTraceClient GTraceClient is disabled
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 645] | Info | [GCloudCore] |6001| (GCloudCoreInnerPlugin.mm:295)|onStartGTraceClient| GCloudCoreInnerPlugin::onStartGTraceClient end
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 649] | Info | [GCloudCore] |6001| (Operation.cpp:87)|~ObjectOperation| ObjectOperation::~ObjectOperation():0x7d5ca2938790
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 651] | Info | [GCloudCore] |6002| (ConfigureImpl.cpp:280)|Request| RemoteConfig state == kRequesting
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 656] | Info | [GCloudCore] |6011| (AThreadBase.cpp:91)|onThreadProc| Thread: CThreadBase: OnThreadProc, 0x7d5c229296b0
+
+I/Unity   ( 5779): CPU_CONFIG: freqType: 1
+
+I/Unity   ( 5779): CPU_CONFIG core:0 freq: 2 cap: 1.000000 s_BigCoreCount: 1
+
+I/Unity   ( 5779): CPU_CONFIG core:1 freq: 2 cap: 1.000000 s_BigCoreCount: 2
+
+I/Unity   ( 5779): CPU_CONFIG s_LittleCoreCount: 0 s_BigCoreCount: 2
+
+I/Unity   ( 5779): CPU_CONFIG s_LittleCoreMask: 0 s_BigCoreMask: 3
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 706] | Info | [GCloudCore] |6002| (AThreadBase.cpp:218)|Start| Thread: CThreadBase: Start:0x7d5c229296b0
+
+I/GCloud  ( 5779): after Thread: CThreadBase: Start m_bThreadRun.Set(true)
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 708] | Info | [GCloudCore] |6002| (AThreadBase.cpp:263)|Resume| CThreadBase::Resume
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 708] | Info | [GCloudCore] |6011| (AThreadBase.cpp:130)|onThreadProc| Thread: CThreadBase: OnThreadProc before Running
+
+I/GCloud  ( 5779): after Thread: CThreadBase::Resume m_bPause.Set(false)
+
+I/GCloud  ( 5779): after Thread: CThreadBase::Resume m_PauseEvent.Set()
+
+I/GCloudCore( 5779): [2026-07-06 11:57:28 711] | Info | [GCloudCore] |6002| (Operation.cpp:87)|~ObjectOperation| ObjectOperation::~ObjectOperation():0x7d5ca2926eb0
+
+I/GCloudCore( 5779): genericobserver pos:0 className:com.gsdk.gcloud.GCloudAppLifecycleListener
+
+I/LifecycleListener( 5779): onRequestPermissionsResult: 100
+
+I/GCloudCore( 5779): genericobserver pos:1 className:com.tdatamaster.tdm.gcloud.lifecycle.PluginReportLifecycle
+
+I/GCloudCore( 5779): genericobserver pos:2 className:com.itop.gcloud.msdk.core.lifecycle.PluginMSDKLifecycle
+
+I/PluginMSDK( 5779): onRequestPermissionsResult
+
+D/pgame   ( 5779): requestCode===100
+
+D/pgame   ( 5779): permissions===android.permission.GET_TASKS
+
+D/pgame   ( 5779): callbackStr===100-android.permission.GET_TASKS-2
+
+D/[MSDK]  ( 5779): [57][A.E][2026-07-06 +9.0 11:57:29.236][5779, 5779][ (MSDK.cpp:286) InitSDKInfos] : get APM plugin instance failed
+
+D/[MSDK]  ( 5779): [58][A.E][2026-07-06 +9.0 11:57:29.255][5779, 5779][ (MSDK.cpp:286) InitSDKInfos] : get GEM plugin instance failed
+
+D/[MSDK]  ( 5779): [59][A.E][2026-07-06 +9.0 11:57:29.256][5779, 5779][ (MSDK.cpp:286) InitSDKInfos] : get GRobot plugin instance failed
+
+D/[MSDK]  ( 5779): [60][A.E][2026-07-06 +9.0 11:57:29.257][5779, 5779][ (MSDK.cpp:286) InitSDKInfos] : get GVoice plugin instance failed
+
+D/[MSDK]  ( 5779): [61][A.E][2026-07-06 +9.0 11:57:29.257][5779, 5779][ (MSDK.cpp:286) InitSDKInfos] : get HttpDNS plugin instance failed
+
+D/[MSDK]  ( 5779): [62][A.E][2026-07-06 +9.0 11:57:29.258][5779, 5779][ (MSDK.cpp:286) InitSDKInfos] : get TGPA plugin instance failed
+
+I/GCloudCore( 5779): [2026-07-06 11:57:29 268] | Info | [GCloudCore] |5779| (Application.cpp:127)|OnResume| CApplication::OnResume
+
+I/GCloudCore( 5779): genericobserver pos:0 className:com.gsdk.gcloud.GCloudAppLifecycleListener
+
+I/LifecycleListener( 5779): onResume
+
+I/GCloud  ( 5779): onResume
+
+I/GCloud  ( 5779): [2026-07-06 11:57:29 276] | Info | [GCloud] |5779| (GCloud.jni.cpp:203)|Java_com_gsdk_gcloud_GCloud_setAppStatus| SetAppStatus :status:2
+
+I/GCloud  ( 5779): [2026-07-06 11:57:29 278] | Info | [GCloud] |5779| (GCloud.jni.cpp:214)|Java_com_gsdk_gcloud_GCloud_setAppStatus| SetAppStatus :refresh status:302
+
+I/GCloudCore( 5779): genericobserver pos:1 className:com.tdatamaster.tdm.gcloud.lifecycle.PluginReportLifecycle
+
+I/GCloudCore( 5779): genericobserver pos:2 className:com.itop.gcloud.msdk.core.lifecycle.PluginMSDKLifecycle
+
+D/PGame   ( 5779): hideSystemUI start hide system ui
+
+D/PGame   ( 5779): hideSystemUI start hide system ui
+
+I/GCloudCore( 5779): [2026-07-06 11:57:29 341] | Info | [GCloudCore] |6000| (:0)|| [URLRequest]url[]response2cpp with result :0
+
+I/GCloudCore( 5779): [2026-07-06 11:57:29 341] | Info | [GCloudCore] |6000| (UrlRequest.cpp:392)|Java_com_gcore_abase_URLRequest_nativeResponse| Java_com_apollovoice_httpclient_URLRequest_response result 0
+
+I/GCloudCore( 5779): [2026-07-06 11:57:29 342] | Info | [GCloudCore] |6000| (ConfigHttpTaskImp.cpp:97)|OnDataTaskFinished| OnDataTaskFinished error:0, httpStatus:200
+
+I/GCloudCore( 5779): [2026-07-06 11:57:29 342] | Info | [GCloudCore] |6000| (ConfigureImpl.cpp:347)|OnDataTaskFinished| OnDataTaskFinished error:0, httpStatus:200, cost time 834 ms, data:{"ret":0,"next_gap":3600,"biz_data":{"merged_cfg":{"GPMSDK":{"domain3":"0.0.0.0","wifi":"0","domain":"0","port4":"0","sport":"17000","port3":"0","gem_init":"true","port6":"0","netflow":"1","lfps3":"15","port1":"0","cpu_cycle":"5000","pcntx00":"200","cpu":"1","domain6":"0.0.0.0","port2":"0","up_protocol":"down","gem_detect_in_timeout":"false","port5":"0","fcntx0":"20","domain5":"0.0.0.0","gem_report_event":"true","ping":"0","lfps1":"5","login":"true","domain2":"0.0.0.0","domain4":"0.0.0.0","gem":"true","gem_set_event":"true","speedlist":"1_speedtest.pokemon-unitepgame.com:17000;2_speedtest.pokemon-unitepgame.com:17000;3_speedtest.pokemon-unitepgame.com:17000;4_speedtest.pokemon-unitepgame.com:17000;5_speedtest.pokemon-unitepgame.com:17000;6_speedtest.pokemon-unitepgame.com:17000;7_speedtest.pokemon-unitepgame.com:17000","sip":"speedtest.pokemon-u
+
+I/GCloudCore( 5779): nitepgame.com","errno":"0","battery":"1","mem":"1","domain1":"0.0.0.0","frequency":"2000","fps_cycle":"5000","tcp":"0.0.0.0","fps":"1","gem_start":"true","lfps2":"8","errmsg":"success"},"669535640":{"CurNewestAppVersion":"1.23.1","MainRoadIP":"43.173.163.250:9921","PreAudit_Control":"1","PreRelease_Control":"1","PreAuditInfoUseLocalDir":"JumpVer=1.23.11177935","PreIFix_Control":"1","CheckNXLackingMemoryForGC":"400","DiffUpdate_Control":"0","PreRelease_OpenID":"9663297698292996244,13777347268198182036,11936573040949845153,11483616058631837225,18354059859873468036,15364927179131191986,15364927179131191986,10545653564605145160,14515406078511297819,4990356000678638492,2480931984594025097,2128891738512393997,14520515229850439107,1354059885973468036,14262991474621653653,6503460265270686735,18155955713761628676,9697002638439270494,10215639368009646908,14520515229850439107,10173901579085378587,8224505921645514531,17633722377889270594,4001010158447717676,17848251439227156454,1600876898911057199,18161135555467819855,1
+
+I/GCloudCore( 5779): 415242189128297179,9948567029658600514,13230678011344776368,6646317793588346700,9364805793327071881,5300787255077662400,12074541012114080103,24391333700963631,3758094018061427397,811088508858586220,16884413804093616032,3099452974886061914,10624560360462890095,3597968572009754235,13479108556809482297,13514116863397475305,15763401341068443413,8097833903903107834,20741375619984946301,13112125793275160494,14055270884192392397,13221420334858763225,1415242189128297179,6646308271312302676,3800106967987788279,6484307550983424872,3947232747943721699,18363878696034604867,163730834198374871,5226199163035591662,3947232747943721699,9399074818623112956,15072831793806409542,11376576555257528326,2022008475622240131,16468706396395761423,10689600795820346834,9215258735765703803,00160684012045280704,11591301019965930070,8720138411641239401,16830555909107889234,1381428535276623966","LoadingBgName":"t_Login_background_kv_party5_e010a6a017aa9770","SwitchBanpickpageCloseLobby":"0","NXReadZipCacheMethod":"0","PreAudit_Info":"JumpVe
+
+I/GCloudCore( 5779): r=1.23.11177935,JumpId=1236","OpenCDNRamDisk":"1"}},"rule_id":139}}
+
+I/GCloudCore( 5779): , len:2971
+
+D/TrafficStats( 5779): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+
+I/GCloudCore( 5779): [2026-07-06 11:57:29 393] | Info | [GCloudCore] |6000| (ConfigureImpl.cpp:485)|_ParseJsonObject| ParseJsonObject : {"ret":0,"next_gap":3600,"biz_data":{"merged_cfg":{"GPMSDK":{"domain3":"0.0.0.0","wifi":"0","domain":"0","port4":"0","sport":"17000","port3":"0","gem_init":"true","port6":"0","netflow":"1","lfps3":"15","port1":"0","cpu_cycle":"5000","pcntx00":"200","cpu":"1","domain6":"0.0.0.0","port2":"0","up_protocol":"down","gem_detect_in_timeout":"false","port5":"0","fcntx0":"20","domain5":"0.0.0.0","gem_report_event":"true","ping":"0","lfps1":"5","login":"true","domain2":"0.0.0.0","domain4":"0.0.0.0","gem":"true","gem_set_event":"true","speedlist":"1_speedtest.pokemon-unitepgame.com:17000;2_speedtest.pokemon-unitepgame.com:17000;3_speedtest.pokemon-unitepgame.com:17000;4_speedtest.pokemon-unitepgame.com:17000;5_speedtest.pokemon-unitepgame.com:17000;6_speedtest.pokemon-unitepgame.com:17000;7_speedtest.pokemon-unitepgame.com:17000","sip":"speedtest.pokemon-unitepgame.com","errno":"0","battery":"1","mem":"1",
+
+I/GCloudCore( 5779): "domain1":"0.0.0.0","frequency":"2000","fps_cycle":"5000","tcp":"0.0.0.0","fps":"1","gem_start":"true","lfps2":"8","errmsg":"success"},"669535640":{"CurNewestAppVersion":"1.23.1","MainRoadIP":"43.173.163.250:9921","PreAudit_Control":"1","PreRelease_Control":"1","PreAuditInfoUseLocalDir":"JumpVer=1.23.11177935","PreIFix_Control":"1","CheckNXLackingMemoryForGC":"400","DiffUpdate_Control":"0","PreRelease_OpenID":"9663297698292996244,13777347268198182036,11936573040949845153,11483616058631837225,18354059859873468036,15364927179131191986,15364927179131191986,10545653564605145160,14515406078511297819,4990356000678638492,2480931984594025097,2128891738512393997,14520515229850439107,1354059885973468036,14262991474621653653,6503460265270686735,18155955713761628676,9697002638439270494,10215639368009646908,14520515229850439107,10173901579085378587,8224505921645514531,17633722377889270594,4001010158447717676,17848251439227156454,1600876898911057199,18161135555467819855,1415242189128297179,9948567029658600514,132306780113
+
+I/GCloudCore( 5779): 44776368,6646317793588346700,9364805793327071881,5300787255077662400,12074541012114080103,24391333700963631,3758094018061427397,811088508858586220,16884413804093616032,3099452974886061914,10624560360462890095,3597968572009754235,13479108556809482297,13514116863397475305,15763401341068443413,8097833903903107834,20741375619984946301,13112125793275160494,14055270884192392397,13221420334858763225,1415242189128297179,6646308271312302676,3800106967987788279,6484307550983424872,3947232747943721699,18363878696034604867,163730834198374871,5226199163035591662,3947232747943721699,9399074818623112956,15072831793806409542,11376576555257528326,2022008475622240131,16468706396395761423,10689600795820346834,9215258735765703803,00160684012045280704,11591301019965930070,8720138411641239401,16830555909107889234,1381428535276623966","LoadingBgName":"t_Login_background_kv_party5_e010a6a017aa9770","SwitchBanpickpageCloseLobby":"0","NXReadZipCacheMethod":"0","PreAudit_Info":"JumpVer=1.23.11177935,JumpId=1236","OpenCDNRamDisk":"1"}}
+
+I/GCloudCore( 5779): ,"rule_id":139}}
+
+I/GCloudCore( 5779): [2026-07-06 11:57:29 433] | Info | [GCloudCore] |6000| (JsonFileImp.cpp:95)|Set| save config json file cost 35134 us
+
+I/GCloudCore( 5779): [2026-07-06 11:57:29 784] | Info | [GCloudCore] |6000| (Logger.mm:433)|SetLogLevel| GPMSDK SetLogLevel:2
+
+I/GCloudCore( 5779): [2026-07-06 11:57:29 785] | Info | [GCloudCore] |6000| (Logger.mm:440)|SetLogLevel| GPMSDK SetLogLevel finished, final LogLevel:2
+
+I/GCloudCore( 5779): [2026-07-06 11:57:29 785] | Info | [GCloudCore] |6000| (GCloudCoreReportService.cpp:62)|CreateEvent| GCloudCoreReportService::CreateEvent, dataType : 2, srcID : 2000, eventName : PullConfigResult
+
+I/Unity   ( 5779): SystemInfo CPU = ARM64 FP ASIMD AES VMH, Cores = 2, Memory = 2473mb
+
+I/Unity   ( 5779): SystemInfo ARM big.LITTLE configuration: 2 big (mask: 0x3), 0 little (mask: 0x0)
+
+I/Unity   ( 5779): ApplicationInfo jp.pokemon.pokemonunite version 1.23.1.1 build fbebc269-c28b-4fda-9868-7ae80c867471
+
+I/Unity   ( 5779): Built from 'branches/PUB/Unity2019.4.15f1_Publish/Unity2019.4.15f1_Publish_v8.3_r5835_Global' branch, Version '2019.4.15f1 (7555)', Build type 'Release', Scripting Backend 'il2cpp', CPU 'arm64-v8a', Stripping 'Enabled'
+
+I/Unity   ( 5779): GetInternalResourcePath internalIl2cppLibPath = /data/user/0/jp.pokemon.pokemonunite/files/Resources/1169236/arm64-v8a/libil2cpp.so, internalManagedPath = /data/user/0/jp.pokemon.pokemonunite/files/Resources/1169236/Managed
+
+D/TrafficStats( 5779): tagSocket(134) with statsTag=0xffffffff, statsUid=-1
+
+I/Unity   ( 5779): Load Il2CPP internal success.
+
+I/NetworkChangeHelper( 5779): network available for wifi
+
+W/NetworkChangeHelper( 5779): Network State not change:2
+
+D/NetworkChangeHelper( 5779): internet online
+
+I/GCloudCore( 5779): [2026-07-06 11:57:31 457] | Info | [GCloudCore] |5988| (:0)|| [NetworkChangeHelper]network available for wifi
+
+W/GCloudCore( 5779): [2026-07-06 11:57:31 458] | Warning | [GCloudCore] |5988| (:0)|| [NetworkChangeHelper]Network State not change:2
+
+D/nativeloader( 5779): Load libSQLite.Interop.so using ns clns-7 from class loader (caller=/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/base.apk!classes2.dex): dlopen failed: library "libSQLite.Interop.so" not found
+
+E/Unity   ( 5779): Unable to find SQLite.Interop
+
+I/EGL_emulation( 5779): Opening libGLESv1_CM_emulation.so
+
+I/EGL_emulation( 5779): Opening libGLESv2_emulation.so
+
+E/EGL_emulation( 5779): eglCreateContext: EGL_BAD_CONFIG: no ES 3.2 support
+
+E/EGL_emulation( 5779): [getAttribValue] Bad attribute idx
+
+D/Unity   ( 5779):  GL_EXT_debug_marker GL_EXT_robustness GL_OES_EGL_sync GL_OES_EGL_image GL_OES_EGL_image_external GL_OES_depth24 GL_OES_depth32 GL_OES_element_index_uint GL_OES_texture_float GL_OES_texture_float_linear GL_OES_compressed_paletted_texture GL_OES_compressed_ETC1_RGB8_texture GL_OES_depth_texture GL_OES_texture_half_float GL_OES_texture_half_float_linear GL_OES_packed_depth_stencil GL_OES_vertex_half_float GL_OES_texture_npot GL_OES_rgb8_rgba8 GL_EXT_color_buffer_float GL_EXT_color_buffer_half_float GL_EXT_texture_format_BGRA8888 GL_APPLE_texture_format_BGRA8888 ANDROID_EMU_CHECKSUM_HELPER_v1 ANDROID_EMU_native_sync_v2 ANDROID_EMU_native_sync_v3 ANDROID_EMU_native_sync_v4 ANDROID_EMU_dma_v1 ANDROID_EMU_direct_mem ANDROID_EMU_host_composition_v1 ANDROID_EMU_host_composition_v2 ANDROID_EMU_YUV_Cache ANDROID_EMU_has_shared_slots_host_memory_allocator ANDROID_EMU_sync_buffer_data ANDROID_EMU_read_color_buffer_dma ANDROID_EMU_hwc_multi_configs ANDROID_EMU_hwc_color_transform GL_OES_EGL_image_external_essl3 GL_OES_ve
+
+D/Unity   ( 5779): rtex_array_object GL_KHR_texture_compression_astc_ldr ANDROID_EMU_host_side_tracing ANDROID_EMU_gles_max_version_3_1
+
+W/AudioTrack( 5779): Use of stream types is deprecated for operations other than volume control
+
+W/AudioTrack( 5779): See the documentation of AudioTrack() for what to use instead with android.media.AudioAttributes to qualify your playback use case
+
+V/MediaRouter( 5779): Selecting route: RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+
+I/MediaRouter( 5779): Skip setBluetoothA2dpOn(): types=8388615, isPlaybackActive()=true, BT route=null
+
+W/Adjust  ( 5779): Adjust not initialized, but disabled mode saved for launch
+
+I/pgame   ( 5779): [bugly] reRegisterCrashReport
+
+I/GCloudCore( 5779): [2026-07-06 11:57:33 974] | Event | [GCloudCore] |6041| (GCloudCore.cs.cpp:33)|gcloudcore_init|  gcloudcore_init
+
+I/GCloudCore( 5779): [2026-07-06 11:57:33 976] | Event | [GCloudCore] |6041| (GCloudCore.cpp:88)|CGCloudCore| OS_TYPE:Android, Version:1.6.14.2822, VersionHash:30edeb7184db419c0015ff900be5170f199834a0
+
+I/GCloudCore( 5779): [2026-07-06 11:57:33 998] | Info | [GCloudCore] |6041| (Logger.mm:433)|SetLogLevel| GCloudCore SetLogLevel:4
+
+I/GCloudCore( 5779): [2026-07-06 11:57:33 999] | Info | [GCloudCore] |6041| (Logger.mm:440)|SetLogLevel| GCloudCore SetLogLevel finished, final LogLevel:4
+
+I/GCloudCore( 5779): [2026-07-06 11:57:34 000] | Info | [GCloudCore] |6041| (Logger.mm:433)|SetLogLevel| GCloudCore SetLogLevel:5
+
+I/GCloudCore( 5779): [2026-07-06 11:57:34 001] | Info | [GCloudCore] |6041| (Logger.mm:440)|SetLogLevel| GCloudCore SetLogLevel finished, final LogLevel:5
+
+D/nativeloader( 5779): Load /data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64/libAkSoundEngine.so using ns clns-7 from class loader (caller=/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/base.apk!classes2.dex): ok
+
+W/GCloud  ( 5779): [2026-07-06 11:57:34 125] | Warning | [GCloud] |6041| (GCloud.cpp:98)|CGCloud| Hello GCloud! OSType:Android, GCloudVersion:2.20.01.686-Oversea, GCloudHash:fff5b5feb2c492a52f051de7f826a8d3001056e9
+
+I/GCloud  ( 5779): [2026-07-06 11:57:34 125] | Info | [GCloud] |6041| (GCloud.cpp:112)|Initialize| Input gameId:669535640.
+
+I/GCloud  ( 5779): [2026-07-06 11:57:34 130] | Info | [GCloud] |6041| (GCloudCommon.cpp:154)|CGCloudCommon| _OpenPufferAuthUserIdSign[1] 
+
+I/GCloud  ( 5779): [2026-07-06 11:57:34 130] | Info | [GCloud] |6041| (GCloudCommon.cpp:157)|CGCloudCommon| _OpenDolphinServerAuth[1] 
+
+I/GCloud  ( 5779): [2026-07-06 11:57:34 131] | Info | [GCloud] |6041| (GCloudCommon.cpp:160)|CGCloudCommon| _OpenDolphinAuthUserIdSign[1] 
+
+I/GCloud  ( 5779): [2026-07-06 11:57:34 136] | Info | [GCloud] |6041| (GCloudCommon.cpp:201)|CGCloudCommon| _versionConnectBackupMode=[0],_rpcRetryTimes=[0],_cdnConnectTimeout=[10],_versionConnectMethod[0],RpcConnectTimeout[15] RpcRetryIncrement[7] RpcAddressSvrPortList[8085|8080] RpcAddressSvrBkIPList[] RpcConnectMode[0] RpcConnectTdrProto[100] RpcParallelChannels[15] RpcParallelCount[1] MapleConnectorConfig[0]
+
+I/GCloud  ( 5779): [2026-07-06 11:57:34 137] | Info | [GCloud] |6041| (GCloudCommon.cpp:207)|CGCloudCommon| ForceUseIPv6[0] DNSPriority[-1] SNIConfig[0] UseV3NewJarConfig[0] UseSkipListConfig[0]  rewriteChannelIDBeforeRenameAPK[0]
+
+I/GCloud  ( 5779): [2026-07-06 11:57:34 137] | Info | [GCloud] |6041| (GCloudCommon.cpp:209)|CGCloudCommon| UseRediretHttpConn[0] UseAvargeCutGap[0] AvargeCutGapSize[0] UseDymaicUpdateMaxTask[0]
+
+I/GCloud  ( 5779): [2026-07-06 11:57:34 137] | Info | [GCloud] |6041| (GCloudCommon.cpp:213)|CGCloudCommon| OptiUseDolphinDefaultConfig[1] DolphinAPKCreateMoreTask[1] OptiCloseAllOptiHttp[0] OptiPollingTime[0] OptiDLMaxSpeed[0] 
+
+I/GCloud  ( 5779): [2026-07-06 11:57:34 137] | Info | [GCloud] |6041| (GCloudCommon.cpp:215)|CGCloudCommon| OptiOpenDynamicAdjustDolphinSpeed[1] OptiDLProtectSpeedStart[0] OptiDLProtectSpeedEnd[0] 
+
+I/GCloud  ( 5779): [2026-07-06 11:57:34 138] | Info | [GCloud] |6041| (GCloudCommon.cpp:216)|CGCloudCommon| CurlBufferSize[0] 
+
+I/GCloud  ( 5779): [2026-07-06 11:57:34 139] | Info | [GCloud] |6041| (GCloud.cpp:125)|Initialize| Config gameId:669535640.
+
+I/GCloudCore( 5779): [2026-07-06 11:57:34 147] | Info | [GCloudCore] |6041| (Logger.mm:433)|SetLogLevel| GCloud SetLogLevel:4
+
+I/GCloudCore( 5779): [2026-07-06 11:57:34 148] | Info | [GCloudCore] |6041| (Logger.mm:440)|SetLogLevel| GCloud SetLogLevel finished, final LogLevel:4
+
+I/GCloudCore( 5779): [2026-07-06 11:57:34 148] | Info | [GCloudCore] |6041| (Logger.mm:433)|SetLogLevel| GCloud SetLogLevel:5
+
+I/GCloudCore( 5779): [2026-07-06 11:57:34 148] | Info | [GCloudCore] |6041| (Logger.mm:440)|SetLogLevel| GCloud SetLogLevel finished, final LogLevel:5
+
+I/NetworkChangeHelper( 5779): network available for wifi
+
+W/NetworkChangeHelper( 5779): Network State not change:2
+
+D/NetworkChangeHelper( 5779): internet online
+
+D/on.pokemonunite( 5779): PlayerBase::PlayerBase()
+
+D/on.pokemonunite( 5779): TrackPlayerBase::TrackPlayerBase()
+
+W/libOpenSLES( 5779): Leaving Object::GetInterface (SL_RESULT_FEATURE_UNSUPPORTED)
+
+I/libOpenSLES( 5779): Emulating old channel mask behavior (ignoring positional mask 0x3, using default mask 0x3 based on channel count of 2)
+
+D/MediaRouter( 5779): onRestoreRoute() : route=RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+
+V/MediaRouter( 5779): Selecting route: RouteInfo{ name=Phone, description=null, status=null, category=RouteCategory{ name=System types=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO  groupable=false }, supportedTypes=ROUTE_TYPE_LIVE_AUDIO ROUTE_TYPE_LIVE_VIDEO , presentationDisplay=null }
+
+D/nativeloader( 5779): Load /data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64/libms.so using ns clns-7 from class loader (caller=/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/base.apk!classes2.dex): ok
+
+D/EGL_emulation( 5779): app_time_stats: avg=36.26ms min=7.80ms max=92.86ms count=29
+
+D/TrafficStats( 5779): tagSocket(215) with statsTag=0xffffffff, statsUid=-1
+
+I/TGPA    ( 5779): use thread_local for new thread! 
+
+I/TGPA    ( 5779): Init start. sdk version name: 4.1.0.2_international
+
+I/TGPA    ( 5779): load native lib success!!!
+
+D/TGPA_Init( 5779): prepare sdk dir success! 
+
+D/TGPA_Init( 5779): prepare sdk log dir success! 
+
+D/TGPA_Init( 5779): prepare sdk predownload dir success! 
+
+I/TGPA    ( 5779): can not find config ini in assets!
+
+E/GPMSDK  ( 5779): [2026-07-06 11:57:36 348] | Error | [GPMSDK] |5983| (:0)|| Cannot reflect PerformanceAdjuster: com.ihoc.mgpa.PerformanceAdjuster
+
+E/TGPABgDownloadProxy( 5779): [BgPreDownloadProxy]: setCallbackImpl fail by Failed resolution of: Lcom/ihoc/mgpa/bgdownload/BgPreDownloadManager;
+
+I/GCloudCore( 5779): [2026-07-06 11:57:36 352] | Info | [GCloudCore] |5983| (AFileLogger.cpp:176)|_OpenLogFile| Open log file success: /storage/emulated/0/Android/data/jp.pokemon.pokemonunite/cache/GCloudSDKLog/GPMSDK/GPMSDK_2026070611.log
+
+E/GPMSDK  ( 5779): [2026-07-06 11:57:36 354] | Error | [GPMSDK] |5983| (:0)|| cannot find: com.ihoc.mgpa.PerformanceAdjuster
+
+W/GPMSDK  ( 5779): [2026-07-06 11:57:36 362] | Warning | [GPMSDK] |5983| (:0)|| /sys/bus/virtio exist vm info file
+
+W/UnityMain( 5779): type=1400 audit(0.0:90): avc:  denied  { read } for  name="iomem" dev="proc" ino=4026532062 scontext=u:r:untrusted_app:s0:c213,c256,c512,c768 tcontext=u:object_r:proc_iomem:s0 tclass=file permissive=0 app=jp.pokemon.pokemonunite
+
+E/GPMSDK  ( 5779): [2026-07-06 11:57:36 366] | Error | [GPMSDK] |5983| (:0)|| /proc/iomem: open failed: EACCES (Permission denied)
+
+E/GPMSDK  ( 5779): [2026-07-06 11:57:36 366] | Error | [GPMSDK] |5983| (:0)|| /proc/iomem: open failed: EACCES (Permission denied)
+
+E/GPMSDK  ( 5779): [2026-07-06 11:57:36 366] | Error | [GPMSDK] |5983| (:0)|| /proc/iomem: open failed: EACCES (Permission denied)
+
+E/GPMSDK  ( 5779): [2026-07-06 11:57:36 366] | Error | [GPMSDK] |5983| (:0)|| /proc/ioports: open failed: EACCES (Permission denied)
+
+E/GPMSDK  ( 5779): [2026-07-06 11:57:36 366] | Error | [GPMSDK] |5983| (:0)|| /proc/ioports: open failed: EACCES (Permission denied)
+
+I/TGPA    ( 5779): CloudChecker: start to load local config . 
+
+E/GPMSDK  ( 5779): [2026-07-06 11:57:36 369] | Error | [GPMSDK] |5983| (:0)|| /proc/misc: open failed: EACCES (Permission denied)
+
+E/GPMSDK  ( 5779): [2026-07-06 11:57:36 369] | Error | [GPMSDK] |5983| (:0)|| /proc/misc: open failed: EACCES (Permission denied)
+
+E/GPMSDK  ( 5779): [2026-07-06 11:57:36 369] | Error | [GPMSDK] |5983| (:0)|| /proc/kallsyms: open failed: EACCES (Permission denied)
+
+E/GPMSDK  ( 5779): [2026-07-06 11:57:36 369] | Error | [GPMSDK] |5983| (:0)|| /proc/kallsyms: open failed: EACCES (Permission denied)
+
+E/GPMSDK  ( 5779): [2026-07-06 11:57:36 370] | Error | [GPMSDK] |5983| (:0)|| /proc/kallsyms: open failed: EACCES (Permission denied)
+
+E/GPMSDK  ( 5779): [2026-07-06 11:57:36 370] | Error | [GPMSDK] |5983| (:0)|| /proc/kallsyms: open failed: EACCES (Permission denied)
+
+I/TGPA    ( 5779): [getCloudCtrlFromAssets]: start to load
+
+W/UnityMain( 5779): type=1400 audit(0.0:91): avc:  denied  { read } for  name="iomem" dev="proc" ino=4026532062 scontext=u:r:untrusted_app:s0:c213,c256,c512,c768 tcontext=u:object_r:proc_iomem:s0 tclass=file permissive=0 app=jp.pokemon.pokemonunite
+
+W/UnityMain( 5779): type=1400 audit(0.0:92): avc:  denied  { read } for  name="iomem" dev="proc" ino=4026532062 scontext=u:r:untrusted_app:s0:c213,c256,c512,c768 tcontext=u:object_r:proc_iomem:s0 tclass=file permissive=0 app=jp.pokemon.pokemonunite
+
+W/UnityMain( 5779): type=1400 audit(0.0:93): avc:  denied  { read } for  name="ioports" dev="proc" ino=4026532061 scontext=u:r:untrusted_app:s0:c213,c256,c512,c768 tcontext=u:object_r:proc:s0 tclass=file permissive=0 app=jp.pokemon.pokemonunite
+
+D/TrafficStats( 5779): tagSocket(226) with statsTag=0xffffffff, statsUid=-1
+
+W/UnityMain( 5779): type=1400 audit(0.0:94): avc:  denied  { read } for  name="ioports" dev="proc" ino=4026532061 scontext=u:r:untrusted_app:s0:c213,c256,c512,c768 tcontext=u:object_r:proc:s0 tclass=file permissive=0 app=jp.pokemon.pokemonunite
+
+W/UnityMain( 5779): type=1400 audit(0.0:95): avc:  denied  { read } for  name="misc" dev="proc" ino=4026532007 scontext=u:r:untrusted_app:s0:c213,c256,c512,c768 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0 app=jp.pokemon.pokemonunite
+
+W/UnityMain( 5779): type=1400 audit(0.0:96): avc:  denied  { read } for  name="misc" dev="proc" ino=4026532007 scontext=u:r:untrusted_app:s0:c213,c256,c512,c768 tcontext=u:object_r:proc_misc:s0 tclass=file permissive=0 app=jp.pokemon.pokemonunite
+
+W/libc    ( 5779): Access denied finding property "vendor.gamematrix.device_id"
+
+W/UnityMain( 5779): type=1400 audit(0.0:97): avc:  denied  { read } for  name="kallsyms" dev="proc" ino=4026532071 scontext=u:r:untrusted_app:s0:c213,c256,c512,c768 tcontext=u:object_r:proc_kallsyms:s0 tclass=file permissive=0 app=jp.pokemon.pokemonunite
+
+W/UnityMain( 5779): type=1400 audit(0.0:98): avc:  denied  { read } for  name="kallsyms" dev="proc" ino=4026532071 scontext=u:r:untrusted_app:s0:c213,c256,c512,c768 tcontext=u:object_r:proc_kallsyms:s0 tclass=file permissive=0 app=jp.pokemon.pokemonunite
+
+I/GPMSDK  ( 5779): [2026-07-06 11:57:36 407] | Event | [GPMSDK] |5983| (:0)|| CC APM_MODULE: 1
+
+I/[CrashSightReport]( 5779): getBackendDeviceId success
+
+E/GPMSDK  ( 5779): [2026-07-06 11:57:36 420] | Error | [GPMSDK] |5983| (:0)|| cannot open audit file
+
+I/GPMSDK  ( 5779): [2026-07-06 11:57:36 427] | Event | [GPMSDK] |5983| (:0)|| LMR disabled, no side effects
+
+I/GPMSDK  ( 5779): [2026-07-06 11:57:36 432] | Event | [GPMSDK] |6065| (:0)|| [WAIT TO ACTIVE] 
+
+W/GPMSDK  ( 5779): [2026-07-06 11:57:36 443] | Warning | [GPMSDK] |5983| (:0)|| disabled process alive monitor
+
+D/TrafficStats( 5779): tagSocket(231) with statsTag=0xffffffff, statsUid=-1
+
+W/GPMSDK  ( 5779): [2026-07-06 11:57:36 455] | Warning | [GPMSDK] |5983| (:0)|| GPM init finished
+
+I/TGPA    ( 5779): Register callback by game object for platform Unity
+
+I/TGPA    ( 5779): Register callback start.
+
+E/TGPA    ( 5779): can not find any task version in this project!
+
+W/System.err( 5779): java.lang.NoSuchMethodError: no non-static method "Lcom/itop/gcloud/msdk/report/FirebaseReport;.setCouldCollectSensitiveInfo(Z)V"
+
+W/System.err( 5779): 	at com.unity3d.player.UnityPlayer.nativeRender(Native Method)
+
+W/System.err( 5779): 	at com.unity3d.player.UnityPlayer.access$300(Unknown Source:0)
+
+W/System.err( 5779): 	at com.unity3d.player.UnityPlayer$e$1.handleMessage(Unknown Source:95)
+
+W/System.err( 5779): 	at android.os.Handler.dispatchMessage(Handler.java:103)
+
+W/System.err( 5779): 	at android.os.Looper.loopOnce(Looper.java:232)
+
+W/System.err( 5779): 	at android.os.Looper.loop(Looper.java:317)
+
+W/System.err( 5779): 	at com.unity3d.player.UnityPlayer$e.run(Unknown Source:20)
+
+W/System.err( 5779): java.lang.NoSuchMethodError: no non-static method "Lcom/itop/gcloud/msdk/report/AdjustReport;.setCouldCollectSensitiveInfo(Z)V"
+
+W/System.err( 5779): 	at com.unity3d.player.UnityPlayer.nativeRender(Native Method)
+
+W/System.err( 5779): 	at com.unity3d.player.UnityPlayer.access$300(Unknown Source:0)
+
+W/System.err( 5779): 	at com.unity3d.player.UnityPlayer$e$1.handleMessage(Unknown Source:95)
+
+W/System.err( 5779): 	at android.os.Handler.dispatchMessage(Handler.java:103)
+
+W/System.err( 5779): 	at android.os.Looper.loopOnce(Looper.java:232)
+
+W/System.err( 5779): 	at android.os.Looper.loop(Looper.java:317)
+
+W/System.err( 5779): 	at com.unity3d.player.UnityPlayer$e.run(Unknown Source:20)
+
+I/on.pokemonunite( 5779): Background concurrent mark compact GC freed 2597KB AllocSpace bytes, 27(1132KB) LOS objects, 49% free, 4393KB/8787KB, paused 228us,11.688ms total 108.064ms
+
+W/[CrashSightReport]( 5779): appContext: not null, appId: 8a906737b5, isDebug: false, crashSightStrategy: not null
+
+I/GCloud  ( 5779): [CPP] CThreadBase: Start m_bThreadRun.Set(true)
+
+I/GCloud  ( 5779): [CPP] CThreadBase::Resume m_bPause.Set(false)
+
+I/GCloud  ( 5779): [CPP] CThreadBase::Resume m_PauseEvent.Set()
+
+D/EGL_emulation( 5779): app_time_stats: avg=86.72ms min=27.11ms max=569.14ms count=14
+
+D/TrafficStats( 5779): tagSocket(210) with statsTag=0xffffffff, statsUid=-1
+
+E/[MGPA|TaskTaskConfig]( 5779): [parse]: transceiverConfigObj is null.
+
+I/TGPA    ( 5779): parse cloud control json finished. result: 0
+
+I/TGPA    ( 5779): CloudData: isFoldScreenFeatureOpen=false, isFoldScreenDeviceInCloud=false
+
+I/TGPA    ( 5779): CloudData: isFoldScreenFeatureOpen=false, isFoldScreenDeviceInCloud=false
+
+E/TGPA    ( 5779): VendorBridge: vendor bridge get instance failed, no bridge type is found, ple check the config!
+
+W/System.err( 5779): java.io.IOException: Connection refused
+
+W/System.err( 5779): 	at android.net.LocalSocketImpl.connectLocal(Native Method)
+
+W/System.err( 5779): 	at android.net.LocalSocketImpl.connect(LocalSocketImpl.java:259)
+
+W/System.err( 5779): 	at android.net.LocalSocket.connect(LocalSocket.java:162)
+
+W/System.err( 5779): 	at com.ihoc.mgpa.vendor.utils.p.run(Unknown Source:25)
+
+W/System.err( 5779): 	at java.lang.Thread.run(Thread.java:1012)
+
+W/System.err( 5779): java.io.IOException: Connection refused
+
+W/System.err( 5779): 	at android.net.LocalSocketImpl.connectLocal(Native Method)
+
+W/System.err( 5779): 	at android.net.LocalSocketImpl.connect(LocalSocketImpl.java:259)
+
+W/TGPA    ( 5779): [MediaRouter] init: count: 1 , isWirelessDisplaying: false, isWirelessDisplaying2: false
+
+W/System.err( 5779): 	at android.net.LocalSocket.connect(LocalSocket.java:162)
+
+W/System.err( 5779): 	at com.ihoc.mgpa.vendor.utils.p.run(Unknown Source:25)
+
+W/System.err( 5779): 	at java.lang.Thread.run(Thread.java:1012)
+
+D/GameManager( 5779): try to bind service oiface
+
+E/GameBoosterProxy( 5779): the call throw an exception java.lang.ClassNotFoundException: com.xiaomi.joyose.JoyoseManager
+
+D/GameManager( 5779): bind oiface service failed!
+
+W/System.err( 5779): java.io.IOException: Connection refused
+
+W/System.err( 5779): 	at android.net.LocalSocketImpl.connectLocal(Native Method)
+
+W/System.err( 5779): 	at android.net.LocalSocketImpl.connect(LocalSocketImpl.java:259)
+
+W/System.err( 5779): 	at android.net.LocalSocket.connect(LocalSocket.java:162)
+
+W/System.err( 5779): 	at com.ihoc.mgpa.vendor.utils.p.run(Unknown Source:25)
+
+W/System.err( 5779): 	at java.lang.Thread.run(Thread.java:1012)
+
+I/TGPA    ( 5779): VendorBridge: check vendor bridge finished. no vendor bridge is available!
+
+W/TGPA    ( 5779): [MediaRouter] init: getDualWifiState: 1 , getDualWifiEnabledStateNormal: 0
+
+D/TGPA_Init( 5779): This sdk version is not support for device check function.
+
+W/StandardHapticPlayer( 5779): can't find DynamicEffect/HapticPlayer class in this os version!
+
+W/MTGPA_HapticPlayer( 5779): this device don't support standard haptic player! start to use android pattern player!
+
+I/TGPA    ( 5779): haptic feature is not open in cloud config, ple call the team if need!
+
+W/StandardHapticPlayer( 5779): can't find DynamicEffect/HapticPlayer class in this os version!
+
+I/PatternPlayer( 5779): pattern thread start!
+
+I/TGPA    ( 5779): TransceiverHelper: preTransceiver func is not open. 
+
+I/TGPA    ( 5779): start router is not open in cloud config!
+
+I/TGPA    ( 5779): All task in tgpa_Init thread has done, total run time: 1022
+
+I/TGPA    ( 5779): sdk async init over!
+
+I/GCloud  ( 5779): [CPP] CThreadBase: Start m_bThreadRun.Set(true)
+
+I/GCloud  ( 5779): [CPP] CThreadBase::Resume m_bPause.Set(false)
+
+I/GCloud  ( 5779): [CPP] CThreadBase::Resume m_PauseEvent.Set()
+
+D/TrafficStats( 5779): tagSocket(210) with statsTag=0xffffffff, statsUid=-1
+
+D/EGL_emulation( 5779): app_time_stats: avg=31.46ms min=3.10ms max=51.02ms count=32
+
+D/TrafficStats( 5779): tagSocket(210) with statsTag=0xffffffff, statsUid=-1
+
+D/TrafficStats( 5779): tagSocket(196) with statsTag=0xffffffff, statsUid=-1
+
+D/TrafficStats( 5779): tagSocket(204) with statsTag=0xffffffff, statsUid=-1
+
+D/TrafficStats( 5779): tagSocket(196) with statsTag=0xffffffff, statsUid=-1
+
+D/EGL_emulation( 5779): app_time_stats: avg=32.76ms min=23.48ms max=41.71ms count=32
+
+D/EGL_emulation( 5779): app_time_stats: avg=33.34ms min=23.44ms max=54.18ms count=30
+
+D/EGL_emulation( 5779): app_time_stats: avg=33.76ms min=15.90ms max=70.31ms count=30
+
+I/on.pokemonunite( 5779): Background concurrent mark compact GC freed 4322KB AllocSpace bytes, 12(240KB) LOS objects, 49% free, 4637KB/9275KB, paused 612us,452us total 101.355ms
+
+D/EGL_emulation( 5779): app_time_stats: avg=33.63ms min=4.94ms max=94.70ms count=29
+
+D/EGL_emulation( 5779): app_time_stats: avg=33.02ms min=12.78ms max=61.67ms count=31
+
+D/EGL_emulation( 5779): app_time_stats: avg=33.27ms min=27.48ms max=39.04ms count=31
+
+D/EGL_emulation( 5779): app_time_stats: avg=32.77ms min=5.01ms max=78.61ms count=30
+
+I/NetworkChangeHelper( 5779): network available for wifi
+
+W/NetworkChangeHelper( 5779): Network State not change:2
+
+D/NetworkChangeHelper( 5779): internet online
+
+D/EGL_emulation( 5779): app_time_stats: avg=41.39ms min=5.59ms max=189.23ms count=24
+
+D/nativeloader( 5779): Load /data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/lib/arm64/libPMGameLib.so using ns clns-7 from class loader (caller=/data/app/~~KJ10KW_Y8I3XYrPQ3Fjwzw==/jp.pokemon.pokemonunite-5HWQU04phaN0LLTV1o5K4A==/base.apk!classes2.dex): ok
+
+D/EGL_emulation( 5779): app_time_stats: avg=1493.31ms min=1493.31ms max=1493.31ms count=1
+
+D/EGL_emulation( 5779): app_time_stats: avg=37.63ms min=5.94ms max=168.38ms count=27
+
+D/EGL_emulation( 5779): app_time_stats: avg=36.34ms min=18.89ms max=85.46ms count=28
+
+D/TrafficStats( 5779): tagSocket(213) with statsTag=0xffffffff, statsUid=-1
+
+D/EGL_emulation( 5779): app_time_stats: avg=33.39ms min=25.45ms max=43.58ms count=30
+
+D/EGL_emulation( 5779): app_time_stats: avg=33.17ms min=25.19ms max=48.18ms count=31
+
+D/EGL_emulation( 5779): app_time_stats: avg=33.99ms min=5.62ms max=77.30ms count=30
+
+E/on.pokemonunite( 5779): No implementation found for int com.tencent.itop.httpdns.base.jni.Jni.getNetworkStack() (tried Java_com_tencent_itop_httpdns_base_jni_Jni_getNetworkStack and Java_com_tencent_itop_httpdns_base_jni_Jni_getNetworkStack__) - is the library loaded, e.g. System.loadLibrary?
+
+W/HttpDns ( 5779): Get network stack failed
+
+D/EGL_emulation( 5779): app_time_stats: avg=35.85ms min=5.62ms max=88.70ms count=28
+
+I/NetworkChangeHelper( 5779): network available for wifi
+
+W/NetworkChangeHelper( 5779): Network State not change:2
+
+D/NetworkChangeHelper( 5779): internet online
+
+D/EGL_emulation( 5779): app_time_stats: avg=33.00ms min=12.75ms max=89.09ms count=31
+
+D/TrafficStats( 5779): tagSocket(95) with statsTag=0xffffffff, statsUid=-1
+
+D/EGL_emulation( 5779): app_time_stats: avg=192.21ms min=9.46ms max=3537.72ms count=22
+
+I/on.pokemonunite( 5779): Background concurrent mark compact GC freed 4208KB AllocSpace bytes, 5(100KB) LOS objects, 49% free, 4569KB/9139KB, paused 12.806ms,1.791ms total 165.361ms
+
+D/EGL_emulation( 5779): app_time_stats: avg=35.67ms min=11.73ms max=88.38ms count=29
+
+I/NetworkChangeHelper( 5779): network available for wifi
+
+W/NetworkChangeHelper( 5779): Network State not change:2
+
+D/NetworkChangeHelper( 5779): internet online
+
+D/EGL_emulation( 5779): app_time_stats: avg=32.32ms min=7.59ms max=77.36ms count=31
+
+D/EGL_emulation( 5779): app_time_stats: avg=33.39ms min=26.00ms max=38.67ms count=30
+
+D/EGL_emulation( 5779): app_time_stats: avg=33.45ms min=19.73ms max=49.41ms count=30
+
+I/NetworkChangeHelper( 5779): network available for wifi
+
+W/NetworkChangeHelper( 5779): Network State not change:2
+
+D/NetworkChangeHelper( 5779): internet online
+
+D/EGL_emulation( 5779): app_time_stats: avg=33.15ms min=19.38ms max=47.31ms count=31
+
+D/EGL_emulation( 5779): app_time_stats: avg=33.37ms min=20.63ms max=47.90ms count=30
+
+D/EGL_emulation( 5779): app_time_stats: avg=33.86ms min=10.99ms max=86.21ms count=30
+
+I/NetworkChangeHelper( 5779): network available for wifi
+
+W/NetworkChangeHelper( 5779): Network State not change:2
+
+D/NetworkChangeHelper( 5779): internet online
+
+D/EGL_emulation( 5779): app_time_stats: avg=33.20ms min=19.62ms max=48.91ms count=31
+
+D/EGL_emulation( 5779): app_time_stats: avg=33.36ms min=20.17ms max=50.11ms count=30
+
+D/EGL_emulation( 5779): app_time_stats: avg=33.45ms min=18.23ms max=47.88ms count=30
+
+F/berberis( 5779): Guest call didn't restore sp: expected 0x7d5946ceafd0, actual 0x7d5946ceafc0
+
+F/libc    ( 5779): Fatal signal 6 (SIGABRT), code -1 (SI_QUEUE) in tid 6140 (Thread-229), pid 5779 (on.pokemonunite)
+
+D/EGL_emulation( 5779): app_time_stats: avg=35.02ms min=19.46ms max=74.38ms count=30
+
+D/EGL_emulation( 5779): app_time_stats: avg=42.79ms min=10.44ms max=129.69ms count=26
